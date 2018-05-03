@@ -1,7 +1,7 @@
 # IONIC 3 Crash Course
 
 
-Javascript Tutorials
+Javascript Tutorials and Books
 
 http://openbook.rheinwerk-verlag.de/javascript_ajax/
 
