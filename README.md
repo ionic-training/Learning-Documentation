@@ -1,4 +1,4 @@
-# IONIC 3 Crash Course
+# Ionic 3 Crash Course
 
 
 ## Javascript Books
