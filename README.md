@@ -2,7 +2,7 @@
 
 ## CSS Books
 
-http://howtocodeinhtml.com (http://howtocodeinhtml.com/HowToCodeInHTML5AndCSS3.pdf)
+http://howtocodeinhtml.com [PDF](http://howtocodeinhtml.com/HowToCodeInHTML5AndCSS3.pdf)
 
 ## Javascript Books
 
