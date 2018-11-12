@@ -1,14 +1,17 @@
 ---
 layout: post
-title: "How to Use"
-date: 2016-05-08 20:35:48
+title: "Day 2"
+date: 2018-11-22 17:00:00
 image: '/assets/img/'
 description: 'Day 2: Basics of HTML and CSS'
 main-class: 'misc'
 color: '#7AAB13'
 tags:
-- misc
-- jekyll
+- course
+- basics
+- web
+- html
+- css
 categories:
 twitter_text: 'Day 2: Basics of HTML and CSS'
 introduction: 'Day 2: Basics of HTML and CSS'

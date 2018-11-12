@@ -5,10 +5,9 @@ date: 2018-11-08 17:00:00
 image: '/assets/img/'
 description: 'Day 1: Introduction'
 main-class: 'misc'
-color: '#7AAB13'
+color: '#637a91'
 tags:
-- misc
-- jekyll
+- introduction
 categories:
 twitter_text: 'Day 1: Introduction'
 introduction: 'Day 1: Introduction'

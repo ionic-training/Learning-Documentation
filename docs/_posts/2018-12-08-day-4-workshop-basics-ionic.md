@@ -1,14 +1,16 @@
 ---
 layout: post
-comments: true
-title: "Post Day 4 Workshop - Basics Ionic"
-date: 2018-11-12 18:19:18
+title: "Day 4"
+date: 2018-12-08 09:00:00
 image: '/assets/img/'
-description:
-main-class:
-color:
+description: 'Day 4: Workshop - Basics of Ionic'
+main-class: 'misc'
+color: '#7AAB13'
 tags:
+- workshop
+- basics
+- ionic
 categories:
-twitter_text:
-introduction:
+twitter_text: 'Day 4: Workshop - Basics of Ionic'
+introduction: 'Day 4: Workshop - Basics of Ionic'
 ---
