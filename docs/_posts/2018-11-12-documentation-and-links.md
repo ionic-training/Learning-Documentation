@@ -1,11 +1,11 @@
 ---
 layout: post
 comments: true
-title: "documentation and links"
-date: 2018-11-12 22:40:01
+title: "Documentation and Links"
+date: 2018-11-12 23:01:41
 image: '/assets/img/'
-description:
-main-class:
+description: 'Introduction to the Ionic Curse'
+main-class: 'HELP'
 color:
 tags:
 categories:

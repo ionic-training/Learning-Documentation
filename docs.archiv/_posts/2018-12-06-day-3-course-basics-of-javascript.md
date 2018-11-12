@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Day3: Basics of JavaScript"
+title: "Day 3: Basics of JavaScript"
 date: 2018-11-22 17:00:00
 image: '/assets/img/'
 description: 'Day 3: Basics of JavaScript'

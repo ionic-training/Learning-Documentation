@@ -1,11 +1,11 @@
 ---
 layout: post
 comments: true
-title: "Day5 course advanced html and css"
-date: 2018-11-12 22:40:01
+title: "Day 5: Advanced HTML and CSS"
+date: 2018-11-12 23:01:44
 image: '/assets/img/'
 description:
-main-class:
+main-class: 'html'
 color:
 tags:
 categories:

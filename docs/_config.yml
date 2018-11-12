@@ -1,13 +1,11 @@
 # Site settings
-title: Ionic Team - Basic Course
-description: A blog about learning ionic
-#baseurl: "/"
+title: Ionic Training
+description: A blog about lorem ipsum dolor sit amet
 
 # User settings
-username: ionic-training
-user_description: Ionic Training
-email: training@ionicteam.de
-github_username:  ionic-training
+username: Lorem Ipsum
+user_description: Anon Developer at Lorem Ipsum Dolor
+email: anon@anon.com
 
 # Build settings
 markdown: kramdown
@@ -31,7 +29,7 @@ links:
     url: /series
   - title: Tags
     url: /tags
-  - title: Über mich
+  - title: About Me
     url: /about
 
 # exclude my node related stuff

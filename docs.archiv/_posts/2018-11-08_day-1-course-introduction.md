@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Day1: Introduction"
+title: "Day 1: Introduction"
 date: 2018-11-22 17:00:00
 image: '/assets/img/'
 description: 'Day 1: Introduction'

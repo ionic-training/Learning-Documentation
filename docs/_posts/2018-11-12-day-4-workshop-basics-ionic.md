@@ -1,13 +1,14 @@
 ---
 layout: post
-title: 'Day 9: Final'
-date: 2019-01-31 17:00:00
+comments: true
+title: "Day 4: Workshop - Basics Ionic"
+date: 2018-11-12 23:01:44
 image: '/assets/img/'
-description: 'Day 9: Final'
+description:
 main-class: 'ionic'
-color: '#7AAB13'
+color:
 tags:
-- course
-- final
 categories:
+twitter_text:
+introduction:
 ---

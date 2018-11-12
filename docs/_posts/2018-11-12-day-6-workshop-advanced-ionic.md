@@ -1,12 +1,12 @@
 ---
 layout: post
 comments: true
-title: "Day6 workshop advanced ionic"
-date: 2018-11-12 22:40:01
+title: "Day 6: Workshop - Advanced Ionic"
+date: 2018-11-12 23:01:44
 image: '/assets/img/'
 description:
-main-class:
-color:
+main-class: 'ionic'
+color: 'ffff00'
 tags:
 categories:
 twitter_text:

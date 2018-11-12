@@ -1,11 +1,11 @@
 ---
 layout: post
 comments: true
-title: "Day7 course advanced javascript"
-date: 2018-11-12 22:40:02
+title: "Day 7: Advanced Javascript"
+date: 2018-11-12 23:01:44
 image: '/assets/img/'
 description:
-main-class:
+main-class: 'js'
 color:
 tags:
 categories:

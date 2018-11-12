@@ -1,11 +1,11 @@
 ---
 layout: post
 comments: true
-title: "Day8 course advanced ionic"
-date: 2018-11-12 22:40:02
+title: "Day 8: Advanced Ionic"
+date: 2018-11-12 23:01:44
 image: '/assets/img/'
 description:
-main-class:
+main-class: 'inoic'
 color:
 tags:
 categories:

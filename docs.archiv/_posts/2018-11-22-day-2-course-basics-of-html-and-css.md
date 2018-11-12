@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Day2: Basics of HTML and CSS"
+title: "Day 2: Basics of HTML and CSS"
 date: 2018-11-22 17:00:00
 image: '/assets/img/'
 description: 'Day 2: Basics of HTML and CSS'

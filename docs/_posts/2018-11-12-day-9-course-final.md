@@ -2,15 +2,13 @@
 layout: post
 comments: true
 title: "Day 9: Final"
-date: 2018-11-12 22:40:02
+date: 2018-11-12 23:01:47
 image: '/assets/img/'
 description:
-main-class: 'html'
-color: 'ff0000'
+main-class: 'final'
+color:
 tags:
-- final
 categories:
-- ionic
 twitter_text:
 introduction:
 ---
