@@ -12,3 +12,14 @@ categories:
 twitter_text:
 introduction:
 ---
+
+
+# Requirements
+
+## Installation
+
+- Node JS
+- Ionic
+- Visual Studio Code
+- Git Version Control
+
