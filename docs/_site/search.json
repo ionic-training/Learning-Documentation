@@ -1,6 +1,30 @@
 [
   
     {
+      "title"    : "Post Day 4 Workshop - Basics Ionic",
+      "tags"     : "",
+      "categories"     : "",
+      "url"      : "//post-day-4-workshop-basics-ionic/",
+      "date"     : "12 Nov 2018"
+    } ,
+  
+    {
+      "title"    : "Post Day 3 Basics of JavaScript",
+      "tags"     : "",
+      "categories"     : "",
+      "url"      : "//post-day-3-basics-of-javascript/",
+      "date"     : "12 Nov 2018"
+    } ,
+  
+    {
+      "title"    : "Post Day 2 Basics of HTML and CSS",
+      "tags"     : "",
+      "categories"     : "",
+      "url"      : "//post-day-2-basics-of-html-and-css/",
+      "date"     : "12 Nov 2018"
+    } ,
+  
+    {
       "title"    : "Arbeiten mit Ionic",
       "tags"     : "misc and jekyll",
       "categories"     : "misc",

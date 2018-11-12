@@ -1,8 +1,8 @@
 ---
 layout: post
 comments: true
-title: "Post Day 2 Basics of HTML and CSS"
-date: 2018-11-12 18:16:50
+title: "Post Day 4 Workshop - Basics Ionic"
+date: 2018-11-12 18:19:18
 image: '/assets/img/'
 description:
 main-class:
