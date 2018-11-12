@@ -3,18 +3,18 @@ layout: post
 title: "How to Use"
 date: 2016-05-08 20:35:48
 image: '/assets/img/'
-description: 'How to use this template'
+description: 'Day 2: Basics of HTML and CSS'
 main-class: 'misc'
 color: '#7AAB13'
 tags:
 - misc
 - jekyll
 categories:
-twitter_text: 'How to use this template'
-introduction: 'How to use this template'
+twitter_text: 'Day 2: Basics of HTML and CSS'
+introduction: 'Day 2: Basics of HTML and CSS'
 ---
 
-## Cards Jekyll Template - [Demo](http://willianjusten.com.br/cards-jekyll-template)
+## Day 2: Basics of HTML and CSS
 
 This is a simple and minimalist template for Jekyll designed for developers that want to write blog posts but don't want to care about frontend stuff.
 
