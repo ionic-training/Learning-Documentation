@@ -11,8 +11,6 @@ tags:
 - advanced
 - ionic
 categories:
-twitter_text: 'Day 6: Workshop - Advanced Ionic'
-introduction: 'Day 6: Workshop - Advanced Ionic'
 ---
 
 ## Cards Jekyll Template - [Demo](http://willianjusten.com.br/cards-jekyll-template)

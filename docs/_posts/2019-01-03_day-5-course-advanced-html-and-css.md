@@ -12,8 +12,6 @@ tags:
 - html
 - css
 categories:
-twitter_text: 'Day 5: Advanced HTML and CSS'
-introduction: 'Day 5: Advanced HTML and CSS'
 ---
 
 

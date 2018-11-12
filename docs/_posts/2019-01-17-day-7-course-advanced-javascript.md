@@ -11,8 +11,6 @@ tags:
 - advanced
 - javascript
 categories:
-twitter_text: 'Day 7: Advanced JavaScript'
-introduction: 'Day 7: Advanced JavaScript'
 ---
 
 ## Cards Jekyll Template - [Demo](http://willianjusten.com.br/cards-jekyll-template)

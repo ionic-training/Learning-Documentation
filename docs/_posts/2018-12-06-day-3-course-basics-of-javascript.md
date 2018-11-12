@@ -11,8 +11,6 @@ tags:
 - basics
 - javascript
 categories:
-twitter_text: 'Day 3: Basics of JavaScript'
-introduction: 'Day 3: Basics of JavaScript'
 ---
 
 ## Cards Jekyll Template - [Demo](http://willianjusten.com.br/cards-jekyll-template)

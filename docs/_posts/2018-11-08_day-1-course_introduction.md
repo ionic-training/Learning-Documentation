@@ -10,8 +10,6 @@ tags:
 - course
 - introduction
 categories:
-twitter_text: 'Day 1: Introduction'
-introduction: 'Day 1: Introduction'
 ---
 
 ## Day 1: Introduction

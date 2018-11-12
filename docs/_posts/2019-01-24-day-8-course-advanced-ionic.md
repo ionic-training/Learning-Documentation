@@ -11,6 +11,4 @@ tags:
 - basics
 - ionic
 categories:
-twitter_text: 'Day 8: Advanced Ionic'
-introduction: 'Day 8: Advanced Ionic'
 ---

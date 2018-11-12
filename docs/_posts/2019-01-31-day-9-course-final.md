@@ -10,6 +10,4 @@ tags:
 - course
 - final
 categories:
-twitter_text: 'Day 9: Final'
-introduction: 'Day 9: Final'
 ---

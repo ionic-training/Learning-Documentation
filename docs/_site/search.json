@@ -1,99 +1,11 @@
 [
   
     {
-      "title"    : "Post Day 4 Workshop - Basics Ionic",
-      "tags"     : "",
+      "title"    : "Dokumentation",
+      "tags"     : "documentation",
       "categories"     : "",
-      "url"      : "//day-4-workshop-basics-ionic/",
+      "url"      : "//documentation-and-links/",
       "date"     : "12 Nov 2018"
-    } ,
-  
-    {
-      "title"    : "Post Day 3 Basics of JavaScript",
-      "tags"     : "",
-      "categories"     : "",
-      "url"      : "//day-3-course-basics-of-javascript/",
-      "date"     : "12 Nov 2018"
-    } ,
-  
-    {
-      "title"    : "Arbeiten mit Ionic",
-      "tags"     : "misc and jekyll",
-      "categories"     : "misc",
-      "url"      : "//how-to-use/",
-      "date"     : "08 May 2016"
-    } ,
-  
-    {
-      "title"    : "How to Use",
-      "tags"     : "misc and jekyll",
-      "categories"     : "misc",
-      "url"      : "//day-9-course-final/",
-      "date"     : "08 May 2016"
-    } ,
-  
-    {
-      "title"    : "How to Use",
-      "tags"     : "misc and jekyll",
-      "categories"     : "misc",
-      "url"      : "//day-8-course-advanced-ionic/",
-      "date"     : "08 May 2016"
-    } ,
-  
-    {
-      "title"    : "How to Use",
-      "tags"     : "misc and jekyll",
-      "categories"     : "misc",
-      "url"      : "//day-7-course-advanced-javascript/",
-      "date"     : "08 May 2016"
-    } ,
-  
-    {
-      "title"    : "How to Use",
-      "tags"     : "misc and jekyll",
-      "categories"     : "misc",
-      "url"      : "//day-2-course-basics-html-and-css/",
-      "date"     : "08 May 2016"
-    } ,
-  
-    {
-      "title"    : "Welcome to Jekyll",
-      "tags"     : "jekyll",
-      "categories"     : "jekyll",
-      "url"      : "//welcome-to-jekyll/",
-      "date"     : "08 May 2016"
-    } ,
-  
-    {
-      "title"    : "Analisando seu código JS com um linter",
-      "tags"     : "js, linter, and tutorial",
-      "categories"     : "js",
-      "url"      : "//analisando-seu-codigo-js-com-linter/",
-      "date"     : "04 Dec 2015"
-    } ,
-  
-    {
-      "title"    : "Social Meta Tags",
-      "tags"     : "social, seo, and tutorial",
-      "categories"     : "html",
-      "url"      : "//social-meta-tags/",
-      "date"     : "09 Feb 2015"
-    } ,
-  
-    {
-      "title"    : "#1 - Por que usar SVG?",
-      "tags"     : "svg, frontend, trend, and dicarapida",
-      "categories"     : "svg",
-      "url"      : "//por-que-usar-svg/",
-      "date"     : "08 Jan 2015"
-    } ,
-  
-    {
-      "title"    : "Dica rápida #1",
-      "tags"     : "dicarapida",
-      "categories"     : "dev",
-      "url"      : "//dica-rapida-1/",
-      "date"     : "07 Jan 2015"
     } 
   
 ]

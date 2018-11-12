@@ -13,8 +13,6 @@ tags:
 - html
 - css
 categories:
-twitter_text: 'Day 2: Basics of HTML and CSS'
-introduction: 'Day 2: Basics of HTML and CSS'
 ---
 
 ## Day 2: Basics of HTML and CSS
