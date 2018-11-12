@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Day 4"
+title: 'Day 6: Workshop - Advanced Ionic'
 date: 2018-12-08 09:00:00
 image: '/assets/img/'
 description: 'Day 6: Workshop - Advanced Ionic'

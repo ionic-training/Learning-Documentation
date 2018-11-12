@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Day 3"
+title: 'Day 3: Basics of JavaScript'
 date: 2018-11-22 17:00:00
 image: '/assets/img/'
 description: 'Day 3: Basics of JavaScript'
@@ -11,8 +11,8 @@ tags:
 - basics
 - javascript
 categories:
-twitter_text: 'Day 2: Basics of JavaScript'
-introduction: 'Day 2: Basics of JavaScript'
+twitter_text: 'Day 3: Basics of JavaScript'
+introduction: 'Day 3: Basics of JavaScript'
 ---
 
 ## Cards Jekyll Template - [Demo](http://willianjusten.com.br/cards-jekyll-template)

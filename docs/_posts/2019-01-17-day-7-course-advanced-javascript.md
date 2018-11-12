@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Day 3"
+title: 'Day 7: Advanced JavaScript'
 date: 2019-01-17 17:00:00
 image: '/assets/img/'
 description: 'Day 37: Advanced JavaScript'

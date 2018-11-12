@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "How to Use"
-date: 2018-11-08 17:00:00
+title: 'Day 1: Introduction'
+date: 2018-11-22 17:00:00
 image: '/assets/img/'
 description: 'Day 1: Introduction'
-main-class: 'misc'
-color: '#637a91'
+main-class: 'html'
+color: '#7AAB13'
 tags:
+- course
 - introduction
 categories:
 twitter_text: 'Day 1: Introduction'
