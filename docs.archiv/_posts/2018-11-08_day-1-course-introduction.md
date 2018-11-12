@@ -1,19 +1,18 @@
 ---
 layout: post
-title: 'Day 3: Basics of JavaScript'
+title: "Day1: Introduction"
 date: 2018-11-22 17:00:00
 image: '/assets/img/'
-description: 'Day 3: Basics of JavaScript'
-main-class: 'js'
+description: 'Day 1: Introduction'
+main-class: 'html'
 color: '#7AAB13'
 tags:
 - course
-- basics
-- javascript
+- introduction
 categories:
 ---
 
-## Cards Jekyll Template - [Demo](http://willianjusten.com.br/cards-jekyll-template)
+## Day 1: Introduction
 
 This is a simple and minimalist template for Jekyll designed for developers that want to write blog posts but don't want to care about frontend stuff.
 
@@ -125,3 +124,16 @@ If you use Windows 10, change this line on [gulpfile.js](https://github.com/will
 ## Questions
 
 Having a problem getting something to work or want to know why I setup something in a certain way? Ping me on Twitter [@willian_justen](https://twitter.com/willian_justen) or file a [GitHub Issue](https://github.com/willianjusten/will-jekyll-template/issues/new).
+
+
+## Donation
+
+If you liked my work, buy me a coffee <3
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UTMFZUHX6EUGE)
+
+## License
+
+This theme is free and open source software, distributed under the The MIT License. So feel free to use this Jekyll theme on your site without linking back to me or using a disclaimer.
+
+If you’d like to give me credit somewhere on your blog or tweet a shout out to [@willian_justen](https://twitter.com/willian_justen), that would be pretty sweet.

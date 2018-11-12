@@ -1,19 +1,20 @@
 ---
 layout: post
-title: 'Day 7: Advanced JavaScript'
-date: 2019-01-17 17:00:00
+comments: true
+title: "Day2: Basics of HTML and CSS"
+date: 2018-11-12 22:40:01
 image: '/assets/img/'
-description: 'Day 37: Advanced JavaScript'
-main-class: 'js'
-color: '#7AAB13'
+description:
+main-class: 'html'
+color:
 tags:
-- course
-- advanced
-- javascript
+- basics
+- html
+- css
 categories:
 ---
 
-## Cards Jekyll Template - [Demo](http://willianjusten.com.br/cards-jekyll-template)
+## Day 2: Basics of HTML and CSS
 
 This is a simple and minimalist template for Jekyll designed for developers that want to write blog posts but don't want to care about frontend stuff.
 

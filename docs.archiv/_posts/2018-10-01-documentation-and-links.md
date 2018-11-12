@@ -1,4 +1,18 @@
-# Dokumentation rund um das Thema HTML, CSS, JavaSCript und Ionic
+---
+layout: post
+comments: true
+title: "Dokumentation"
+date: 2018-11-12 18:42:46
+image: '/assets/img/'
+description:
+main-class: 'js'
+color:
+tags:
+- documentation
+categories:
+twitter_text:
+introduction:
+---
 
 ## HTMLBooks
 
@@ -22,7 +36,6 @@ https://github.com/loiane/javascript-datastructures-algorithms
 http://htmldog.com/guides/javascript/beginner/
 
 http://speakingjs.com/es5/index.html
-
 
 
 ## Javascript Excercises
