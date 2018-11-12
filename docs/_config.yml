@@ -4,8 +4,8 @@ description: A blog about learning ionic
 baseurl: "/"
 
 # User settings
-username: Lorem Ipsum
-user_description: Anon Developer at Lorem Ipsum Dolor
+username: ionic-training
+user_description: Ionic Team in SH
 email: training@ionicteam-de
 github_username:  ionic-training
 
