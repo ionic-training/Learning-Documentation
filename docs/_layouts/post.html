@@ -8,9 +8,11 @@
             <article role="article" id="post" class="post-content" itemprop="articleBody">
                 {{ content }}
             </article>
-            {% if page.comments != false %} 
+		 	<!--
+			{% if page.comments != false %} 
                 {% include comments.html %}
-            {% endif %}
+			{% endif %}
+			-->
             {% include footer.html %}
         </section>
     </body>
