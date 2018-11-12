@@ -1,17 +1,18 @@
 ---
 layout: post
-title: "How to Use"
-date: 2016-05-08 20:35:48
+title: "Day 3"
+date: 2019-01-17 17:00:00
 image: '/assets/img/'
-description: 'How to use this template'
-main-class: 'misc'
+description: 'Day 37: Advanced JavaScript'
+main-class: 'js'
 color: '#7AAB13'
 tags:
-- misc
-- jekyll
+- course
+- advanced
+- javascript
 categories:
-twitter_text: 'How to use this template'
-introduction: 'How to use this template'
+twitter_text: 'Day 7: Advanced JavaScript'
+introduction: 'Day 7: Advanced JavaScript'
 ---
 
 ## Cards Jekyll Template - [Demo](http://willianjusten.com.br/cards-jekyll-template)
@@ -57,8 +58,8 @@ url: "http://localhost:3000" # the base hostname & protocol for your site
 
 # User settings
 username: Lorem Ipsum
-user_description: IonicTeam@SH at Lorem Ipsum Dolor
-user_title: IonicTeam@SH
+user_description: Ionic Course at Lorem Ipsum Dolor
+user_title: Ionic Course
 email: anon@anon.com
 twitter_username: lorem_ipsum
 github_username:  lorem_ipsum

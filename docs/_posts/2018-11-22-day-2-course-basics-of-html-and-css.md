@@ -4,7 +4,7 @@ title: "Day 2"
 date: 2018-11-22 17:00:00
 image: '/assets/img/'
 description: 'Day 2: Basics of HTML and CSS'
-main-class: 'misc'
+main-class: 'html'
 color: '#7AAB13'
 tags:
 - course
@@ -60,8 +60,8 @@ url: "http://localhost:3000" # the base hostname & protocol for your site
 
 # User settings
 username: Lorem Ipsum
-user_description: IonicTeam@SH at Lorem Ipsum Dolor
-user_title: IonicTeam@SH
+user_description: Ionic Course at Lorem Ipsum Dolor
+user_title: Ionic Course
 email: anon@anon.com
 twitter_username: lorem_ipsum
 github_username:  lorem_ipsum
