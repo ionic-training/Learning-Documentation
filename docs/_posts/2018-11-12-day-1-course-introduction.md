@@ -152,11 +152,17 @@ ionic serve
 ### In welchen Dateien werden die folgenden Inhalt eurer Anwendung gespeichert?
 
 <table style="width: 600px">
-	<tbody>
-		<tr class="header">
+	<colgroup>
+		<col width="30%" />
+		<col width="70%" />
+	</colgroup>
+	<thead>
+		<tr clas="header">
 			<th align="left">Inhalt</th>
-			<th align="left">Verzeichnis</th>
+			<th align="left">Dateierweiterung</th>
 		</tr>
+	</thead>
+	<tbody>
 		<tr><td>Aufbau der Seite</td><td> </td></tr>
 		<tr><td>Überschriften</td><td> </td></tr>
 		<tr><td>Bilder</td><td> </td></tr>
@@ -170,10 +176,17 @@ ionic serve
 
 <table style="width: 600px">
 	<tbody>
-		<tr class="header">
+	<colgroup>
+		<col width="30%" />
+		<col width="70%" />
+	</colgroup>
+	<thead>
+		<tr clas="header">
 			<th align="left">Frage</th>
 			<th align="left">Antwort</th>
 		</tr>
+	</thead>
+	<tbody>
 		<tr><td>Programmiersprache</td><td></td></tr>
 		<tr><td>Dateierweiterung</td><td></td></tr>
 	</tbody>
@@ -182,11 +195,17 @@ ionic serve
 ### Welche Bedeutung haben die folgenden Dateierweiterungen?
 
 <table style="width: 600px">
-	<tbody>
+	<colgroup>
+		<col width="30%" />
+		<col width="70%" />
+	</colgroup>
+	<thead>
 		<tr clas="header">
 			<th align="left">Dateierweiterung</th>
 			<th align="left">Bedeutung</th>
 		</tr>
+	</thead>
+	<tbody>
 		<tr><td>.html	</td><td></td></tr>
 		<tr><td>.css	</td><td></td></tr>
 		<tr><td>.scss	</td><td></td></tr>
