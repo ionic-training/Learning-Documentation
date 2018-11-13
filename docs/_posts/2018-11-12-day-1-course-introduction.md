@@ -16,11 +16,6 @@ introduction:
 ## Checkliste
 
 ### Software ist installiert
-
-| Software  | Check  | Installation |
-| --|----- | ---- |
-
-    
 <table style="width: 100%">
 	<tbody>
 		<tr>
@@ -28,10 +23,10 @@ introduction:
 			<th align="left">Check</th>
 			<th align="left">Installation</th>
 	</tr>
-	<tr><td>Node JS/td><td>`node --version`/td><td>[Download](https://nodejs.org/download/release/latest-v8.x/)/td></tr>
-<tr><td>Ionic/td><td>`ionic --version`/td><td>[unter Unix](http://blog.via-internet.de/blog/2018/11/09/ionic-4-installation-on-unix/)/td></tr>
-<tr><td>Visual Studio Code/td><td>`code`/td><td>[Homepage](https://code.visualstudio.com/)/td></tr>
-<tr><td>Git Versionskontrolle/td><td>`git`/td><td>[Windows](https://git-scm.com/download/win) [Linux](https://git-scm.com/download/linux) [Mac OS](https://git-scm.com/download/mac)/td></tr>
+	<tr><td>Node JS/td>				</td><td>`node --version`	</td><td><a href="https://nodejs.org/download/release/latest-v8.x/">Download</a>						</td></tr>
+	<tr><td>Ionic/td>				</td><td>`ionic --version`	</td><td>[unter Unix](http://blog.via-internet.de/blog/2018/11/09/ionic-4-installation-on-unix/)		</td></tr>
+	<tr><td>Visual Studio Code		</td><td>`code`				</td><td>[Homepage](https://code.visualstudio.com/)														</td></tr>
+	<tr><td>Git Versionskontrolle	</td><td>`git`				</td><td>[Windows](https://git-scm.com/download/win) [Linux](https://git-scm.com/download/linux) [Mac OS](https://git-scm.com/download/mac)</td></tr>
 
 	</tbody>
 </table>
@@ -88,27 +83,46 @@ ionic serve
 
 ### In welchem Verzeichnis liegen die Dateien für die beiden Seiten `home` und `list`
 
-| Seite  |Verzeichnis |
-| --|-- |
-| list | `____________________________________________________` |
-| home | `____________________________________________________` |
+<table style="width: 100%">
+	<tbody>
+		<tr>
+			<th align="left">Seite</th>
+			<th align="left">Verzeichnis</th>
+	</tr>
+	<tr><td>list</td><td>____________________________________________________</td></tr>
+	<tr><td>home</td><td>____________________________________________________</td></tr>
+	</tbody>
+</table>
+
  
 ### In welchem Verzeichnis liegt die Startdatei eurer Anwendung `index.html`
 
-| Seite  |Verzeichnis |
-| --|-- |
-| index.html | ____________________________________________________ |
+<table style="width: 100%">
+	<tbody>
+		<tr>
+			<th align="left">Datei</th>
+			<th align="left">Verzeichnis</th>
+	</tr>
+	<tr><td>index.html</td><td>____________________________________________________</td></tr>
+	</tbody>
+</table>
 
 ### In welchen Dateien werden die folgenden Inhalt eurer Anwendung gespeichert?
 
-| Inhalt  |Verzeichnis |
-| --|-- |
-| Aufbau der Seite|-- |
-| Überschriften|-- |
-| Bilder|-- |
-| Texte|-- |
-| Aussehen, Farben | ____________________________________________________ |
-
+<table style="width: 100%">
+	<tbody>
+		<tr>
+			<th align="left">Inhalt</th>
+			<th align="left">Verzeichnis</th>
+	</tr>
+	<tr><td>Aufbau der Seite</td><td>____________________________________________________</td></tr>
+	<tr><td>Überschriften</td><td>____________________________________________________</td></tr>
+	<tr><td>Bilder</td><td>____________________________________________________</td></tr>
+	<tr><td>Texte</td><td>____________________________________________________</td></tr>
+	<tr><td>Farben</td><td>____________________________________________________</td></tr>
+	<tr><td>Schriftarten</td><td>____________________________________________________</td></tr>
+	</tbody>
+</table>
 
 ### In welchen Dateien wird der Programmcode eurer Anwendung definiert?
 
@@ -119,13 +133,13 @@ ionic serve
 
 ### Welche Bedeutung haben die folgenden Dateierweiterungen?
 
-| Dateierweiterung | Bedeutung  |
-| ---------------- |:---------- |
-| .html          | ____________________________________________________ |
-| .css           | ____________________________________________________ |
-| .scss          | ____________________________________________________ |
-| .js            | ____________________________________________________ |
-| .ts            | ____________________________________________________ |
-| .spec.ts       | ____________________________________________________ |
-| .json          | ____________________________________________________ |
-| .spec.json     | ____________________________________________________ |
+| Dateierweiterung | Bedeutung                                            |
+| ---------------- | :--------------------------------------------------- |
+| .html            | ____________________________________________________ |
+| .css             | ____________________________________________________ |
+| .scss            | ____________________________________________________ |
+| .js              | ____________________________________________________ |
+| .ts              | ____________________________________________________ |
+| .spec.ts         | ____________________________________________________ |
+| .json            | ____________________________________________________ |
+| .spec.json       | ____________________________________________________ |
