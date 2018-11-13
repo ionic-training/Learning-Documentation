@@ -17,12 +17,19 @@ introduction:
 
 ### 1. Software ist installiert
 <table style="width: 600px">
-	<tbody>
+	<colgroup>
+		<col width="30%" />
+		<col width="10%" />
+		<col width="60%" />
+	</colgroup>
+	<thead>
 		<tr class="header">
 			<th align="left">Software</th>
 			<th align="left">Check</th>
 			<th align="left">Installation</th>
 		</tr>
+	</thead>
+	<tbody>
 		<tr>
 			<td>Node JS</td>
 			<td><pre>node --version</pre></td>
@@ -51,11 +58,17 @@ introduction:
 ### 2. Beispielanwendungen funktionieren
 
 <table style="width: 600px">
-	<tbody>
+	<colgroup>
+		<col width="30%" />
+		<col width="70%" />
+	</colgroup>
+	<thead>
 		<tr class="header">
-			<th align="left">App</th>
-			<th align="left">Check</th>
+			<th align="left">Anwendung</th>
+			<th align="left">Erfolgreich installiert?</th>
 		</tr>
+	</thead>
+	<tbody>
 		<tr><td>sidemenu	</td><td>Ja / Nein</td></tr>
 		<tr><td>tabs		</td><td>Ja / Nein</td></tr>
 		<tr><td>blank		</td><td>Ja / Nein</td></tr>
@@ -126,11 +139,17 @@ ionic serve
 ### In welchem Verzeichnis liegen die Dateien für die beiden Seiten  "home" und "list"
 
 <table style="width: 600px">
-	<tbody>
+	<colgroup>
+		<col width="30%" />
+		<col width="70%" />
+	</colgroup>
+	<thead>
 		<tr class="header">
 			<th align="left">Seite</th>
 			<th align="left">Verzeichnis</th>
-	</tr>
+		</tr>
+	</thead>
+	<tbody>
 	<tr><td>list</td><td> </td></tr>
 	<tr><td>home</td><td> </td></tr>
 	</tbody>
@@ -140,11 +159,17 @@ ionic serve
 ### In welchem Verzeichnis liegt die Startdatei eurer Anwendung "index.html"
 
 <table style="width: 600px">
-	<tbody>
+	<colgroup>
+		<col width="30%" />
+		<col width="70%" />
+	</colgroup>
+	<thead>
 		<tr class="header">
 			<th align="left">Datei</th>
 			<th align="left">Verzeichnis</th>
 		</tr>
+	</thead>
+	<tbody>
 		<tr><td>index.html</td><td>-</td></tr>
 	</tbody>
 </table>
@@ -157,7 +182,7 @@ ionic serve
 		<col width="70%" />
 	</colgroup>
 	<thead>
-		<tr clas="header">
+		<tr class="header">
 			<th align="left">Inhalt</th>
 			<th align="left">Dateierweiterung</th>
 		</tr>
@@ -181,7 +206,7 @@ ionic serve
 		<col width="70%" />
 	</colgroup>
 	<thead>
-		<tr clas="header">
+		<tr class="header">
 			<th align="left">Frage</th>
 			<th align="left">Antwort</th>
 		</tr>
@@ -200,7 +225,7 @@ ionic serve
 		<col width="70%" />
 	</colgroup>
 	<thead>
-		<tr clas="header">
+		<tr class="header">
 			<th align="left">Dateierweiterung</th>
 			<th align="left">Bedeutung</th>
 		</tr>
