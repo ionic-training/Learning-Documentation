@@ -18,18 +18,33 @@ introduction:
 ### 1. Software ist installiert
 <table style="width: 600px">
 	<tbody>
-		<tr>
+		<tr class="header">
 			<th align="left">Software</th>
 			<th align="left">Check</th>
 			<th align="left">Installation</th>
 		</tr>
-		<tr><td>Node JS				</td><td><pre>node --version</pre>									</td><td><a href="https://nodejs.org/download/release/latest-v8.x/">Download</a>							</td></tr>
-		<tr><td>Ionic				</td><td> <pre>ionic --version</pre>								</td><td><a href="http://blog.via-internet.de/blog/2018/11/09/ionic-4-installation-on-unix/">unter Unix</a>	</td></tr>
-		<tr><td>Visual Studio Code		</td><td> <pre>code</pre>										</td><td><a href="https://code.visualstudio.com">Homepage</a>												</td></tr>
-		<tr><td>Git Versionskontrolle	</td><td> <pre>git --version</pre>								</td><td><a href="https://git-scm.com/download/win">Windows</a>
-																		 	<a href="https://git-scm.com/download/linux">Linux</a>
-																		 	<a href="https://git-scm.com/download/mac">Mac OS</a>												</td></tr>
-
+		<tr>
+			<td>Node JS</td>
+			<td><pre>node --version</pre></td>
+			<td><a href="https://nodejs.org/download/release/latest-v8.x/">Download</a></td>
+		</tr>
+		<tr>
+			<td>Ionic				</td>
+			<td> <pre>ionic --version</pre>								</td>
+			<td><a href="http://blog.via-internet.de/blog/2018/11/09/ionic-4-installation-on-unix/">unter Unix</a>	</td></tr>
+		<tr>
+			<td>Visual Studio Code</td>
+			<td> <pre>code</pre></td>
+			<td><a href="https://code.visualstudio.com">Homepage</a>												</td></tr>
+		<tr>
+			<td>Git Versionskontrolle</td>
+			<td> <pre>git --version</pre></td>
+			<td>
+				<a href="https://git-scm.com/download/win">Windows</a>
+				<a href="https://git-scm.com/download/linux">Linux</a>
+				<a href="https://git-scm.com/download/mac">Mac OS</a>												
+			</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -37,7 +52,7 @@ introduction:
 
 <table style="width: 600px">
 	<tbody>
-		<tr>
+		<tr class="header">
 			<th align="left">App</th>
 			<th align="left">Check</th>
 		</tr>
@@ -112,7 +127,7 @@ ionic serve
 
 <table style="width: 600px">
 	<tbody>
-		<tr>
+		<tr class="header">
 			<th align="left">Seite</th>
 			<th align="left">Verzeichnis</th>
 	</tr>
@@ -126,11 +141,11 @@ ionic serve
 
 <table style="width: 600px">
 	<tbody>
-		<tr>
+		<tr class="header">
 			<th align="left">Datei</th>
 			<th align="left">Verzeichnis</th>
-	</tr>
-	<tr><td>index.html</td><td>-</td></tr>
+		</tr>
+		<tr><td>index.html</td><td>-</td></tr>
 	</tbody>
 </table>
 
@@ -138,16 +153,16 @@ ionic serve
 
 <table style="width: 600px">
 	<tbody>
-		<tr>
+		<tr class="header">
 			<th align="left">Inhalt</th>
 			<th align="left">Verzeichnis</th>
-	</tr>
-	<tr><td>Aufbau der Seite</td><td> </td></tr>
-	<tr><td>Überschriften</td><td> </td></tr>
-	<tr><td>Bilder</td><td> </td></tr>
-	<tr><td>Texte</td><td> </td></tr>
-	<tr><td>Farben</td><td> </td></tr>
-	<tr><td>Schriftarten</td><td> </td></tr>
+		</tr>
+		<tr><td>Aufbau der Seite</td><td> </td></tr>
+		<tr><td>Überschriften</td><td> </td></tr>
+		<tr><td>Bilder</td><td> </td></tr>
+		<tr><td>Texte</td><td> </td></tr>
+		<tr><td>Farben</td><td> </td></tr>
+		<tr><td>Schriftarten</td><td> </td></tr>
 	</tbody>
 </table>
 
@@ -155,12 +170,12 @@ ionic serve
 
 <table style="width: 600px">
 	<tbody>
-		<tr>
+		<tr class="header">
 			<th align="left">Frage</th>
 			<th align="left">Antwort</th>
-	</tr>
-	<tr><td>Programmiersprache</td><td></td></tr>
-	<tr><td>Dateierweiterung</td><td></td></tr>
+		</tr>
+		<tr><td>Programmiersprache</td><td></td></tr>
+		<tr><td>Dateierweiterung</td><td></td></tr>
 	</tbody>
 </table>
 
@@ -168,17 +183,16 @@ ionic serve
 
 <table style="width: 600px">
 	<tbody>
-		<tr>
+		<tr clas="header">
 			<th align="left">Dateierweiterung</th>
 			<th align="left">Bedeutung</th>
-	</tr>
-	<tr><td>.html	</td><td></td></tr>
-	<tr><td>.css	</td><td></td></tr>
-	<tr><td>.scss	</td><td></td></tr>
-	<tr><td>.js		</td><td></td></tr>
-	<tr><td>.ts		</td><td></td></tr>
-	<tr><td>.json	</td><td></td></tr>
-	<tr><td>.spec.ts</td><td></td></tr>
+		</tr>
+		<tr><td>.html	</td><td></td></tr>
+		<tr><td>.css	</td><td></td></tr>
+		<tr><td>.scss	</td><td></td></tr>
+		<tr><td>.js		</td><td></td></tr>
+		<tr><td>.ts		</td><td></td></tr>
+		<tr><td>.json	</td><td></td></tr>
+		<tr><td>.spec.ts</td><td></td></tr>
 	</tbody>
 </table>
-
