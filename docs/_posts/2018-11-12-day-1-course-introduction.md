@@ -16,26 +16,30 @@ introduction:
 ## Checkliste
 
 ### Software ist installiert
-    
-    | Software  | Check  | Installation |
-    | --|----- | ---- |
-    | Node JS | `node --version`  | [Download](https://nodejs.org/download/release/latest-v8.x/) |
-    | Ionic | `ionic --version`  | [unter Unix](http://blog.via-internet.de/blog/2018/11/09/ionic-4-installation-on-unix/) |
-    | Visual Studio Code | `code`  | [Homepage](https://code.visualstudio.com/) |
-    | Git Versionskontrolle | `git`  | [Windows](https://git-scm.com/download/win) [Linux](https://git-scm.com/download/linux) [Mac OS](https://git-scm.com/download/mac) |
+
+| Software  | Check  | Installation |
+| --|----- | ---- |
+| Node JS | `node --version`  | [Download](https://nodejs.org/download/release/latest-v8.x/) |
+| Ionic | `ionic --version`  | [unter Unix](http://blog.via-internet.de/blog/2018/11/09/ionic-4-installation-on-unix/) |
+| Visual Studio Code | `code`  | [Homepage](https://code.visualstudio.com/) |
+| Git Versionskontrolle | `git`  | [Windows](https://git-scm.com/download/win) [Linux](https://git-scm.com/download/linux) [Mac OS](https://git-scm.com/download/mac) |
     
 ### Beispielanwendungen funktionieren
 
-    | Anwendung | Check |
-    | ----------| ----- |
-	| sidemenu  | Ja/Nein|
-	| tabs      | Ja/Nein|
-	| blank     | Ja/Nein|
-	
+| Anwendung | Check |
+| ----------| ----- |
+| sidemenu  | Ja/Nein|
+| tabs      | Ja/Nein|
+| blank     | Ja/Nein|
 
 ### Screendump an Kursleiter gesendet
 
-     Starte bitte die Kommandoeingabe und eine Anwendung, öffne den Programmcode in Visual Studio Code und erstelle einen Screendump auf dem man alle 3 Fenster sehen kann: VS Code, Anwendung/Internet Explorer, Kommandozeile
+1. Starte bitte die Kommandoeingabe und eine Anwendung
+2. öffne den Programmcode in Visual Studio Code und
+3. erstelle einen Screendump auf dem man alle 3 Fenster sehen kann: 
+   - VS Code, 
+   - Anwendung/Internet Explorer
+   - Kommandozeile
 
 ## Übungen
 
