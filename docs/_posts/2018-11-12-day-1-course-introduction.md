@@ -200,7 +200,6 @@ ionic serve
 ### In welchen Dateien wird der Programmcode eurer Anwendung definiert?
 
 <table style="width: 600px">
-	<tbody>
 	<colgroup>
 		<col width="30%" />
 		<col width="70%" />
