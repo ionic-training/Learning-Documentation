@@ -15,7 +15,7 @@ introduction:
 
 ## Checkliste
 
-### Software ist installiert
+### 1. Software ist installiert
 <table style="width: 600px">
 	<tbody>
 		<tr>
@@ -33,7 +33,7 @@ introduction:
 	</tbody>
 </table>
 
-### Beispielanwendungen funktionieren
+### 2. Beispielanwendungen funktionieren
 
 <table style="width: 600px">
 	<tbody>
@@ -47,7 +47,7 @@ introduction:
 	</tbody>
 </table>
 
-### Screendump an Kursleiter gesendet
+### 3. Screendump an Kursleiter gesendet
 
 1. Starte bitte die Kommandoeingabe und eine Anwendung
 2. öffne den Programmcode in Visual Studio Code und
@@ -58,18 +58,39 @@ introduction:
 
 ## Übungen
 
-### Erstelle eine neue App, basierend auf der Vorlagen  <pre>sidemenu</pre>
+### 1. Erstelle eine neue App, basierend auf der Vorlagen  <pre>sidemenu</pre>
 
-### Starte die neu erstellte App
+Öffne die Enrichment-Kommandozeile
 
-### Erstelle eine neue App, basierend auf der Vorlagen <pre>tabs</pre>
+{% highlight shell %}
+mkdir 01_uebungen
+cd    01_uebungen
 
-### Starte die neu erstellte App
+ionic ?????
+{% endhighlight %} 
 
-### Installieren eine Demo-App
-    
-   Öffne die Enrichment-Kommandozeile
-   
+### 2. Starte die neu erstellte App
+
+{% highlight shell %}
+ionic ?????
+{% endhighlight %} 
+
+### 3. Erstelle eine neue App, basierend auf der Vorlagen <pre>tabs</pre>
+
+{% highlight shell %}
+ionic ?????
+{% endhighlight %} 
+
+### 4. Starte die neu erstellte App
+
+{% highlight shell %}
+ionic ?????
+{% endhighlight %} 
+
+### 5. Installieren eine Demo-App
+
+Öffne die Enrichment-Kommandozeile
+
 {% highlight shell %}
 mkdir 02_beispiele
 cd    02_beispiele
