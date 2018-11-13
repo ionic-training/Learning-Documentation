@@ -107,7 +107,7 @@ ionic serve
 
 ## Fragen
 
-### In welchem Verzeichnis liegen die Dateien für die beiden Seiten  <pre>home <pre> und  <pre>list <pre>
+### In welchem Verzeichnis liegen die Dateien für die beiden Seiten  "home" und "list"
 
 <table style="width: 600px">
 	<tbody>
@@ -121,7 +121,7 @@ ionic serve
 </table>
 
  
-### In welchem Verzeichnis liegt die Startdatei eurer Anwendung  <pre>index.html <pre>
+### In welchem Verzeichnis liegt die Startdatei eurer Anwendung "index.html"
 
 <table style="width: 600px">
 	<tbody>
