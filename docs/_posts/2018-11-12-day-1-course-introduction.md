@@ -58,11 +58,11 @@ introduction:
 
 ## Übungen
 
-### Erstelle eine neue App, basierend auf der Vorlagen  <pre>sidemenu <pre>
+### Erstelle eine neue App, basierend auf der Vorlagen  <pre>sidemenu</pre>
 
 ### Starte die neu erstellte App
 
-### Erstelle eine neue App, basierend auf der Vorlagen  <pre>tabs <pre>
+### Erstelle eine neue App, basierend auf der Vorlagen <pre>tabs</pre>
 
 ### Starte die neu erstellte App
 
