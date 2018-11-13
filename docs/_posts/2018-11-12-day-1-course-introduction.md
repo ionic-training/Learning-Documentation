@@ -39,13 +39,27 @@ introduction:
 
 ## Übungen
 
- 1. Erstelle eine neue App, basierend auf der Vorlagen `sidemenu`
+1. Erstelle eine neue App, basierend auf der Vorlagen `sidemenu`
 
- 2. Starte die neu erstellte App
+2. Starte die neu erstellte App
 
- 3. Erstelle eine neue App, basierend auf der Vorlagen `tabs`
+3. Erstelle eine neue App, basierend auf der Vorlagen `tabs`
 
- 4. Starte die neu erstellte App
+4. Starte die neu erstellte App
+
+5. Installieren eine Demo-App
+    
+   Öffne die Enrichment-Kommandozeile
+   
+   ```
+   mkdir 02_beispiele
+   cd    02_beispiele
+
+   git clone https://github.com/ionic-team/ionic-preview-app.git
+   cd ionic-preview-app
+
+   npm install
+   ionic serve
 
 ## Fragen
 
@@ -62,7 +76,7 @@ introduction:
     | --|-- |
     | index.html | `____________________________________________________` |
 
-4. In welchen Dateien werden die folgenden Inhalt eurer Anwendung gespeichert?
+3. In welchen Dateien werden die folgenden Inhalt eurer Anwendung gespeichert?
 
     | Inhalt  |Verzeichnis |
     | --|-- |
@@ -73,14 +87,14 @@ introduction:
     | Aussehen, Farben | `____________________________________________________` |
 
 
-6. In welchen Dateien wird der Programmcode eurer Anwendung definiert?
+4. In welchen Dateien wird der Programmcode eurer Anwendung definiert?
 
     | Frage  |Antwort |
     | --|-- |
     | Programmiersprache | `____________________________________________________` |
     | Dateierweiterung | `____________________________________________________` |
     
-7. Welche Bedeutung haben die folgenden Dateierweiterungen?
+5. Welche Bedeutung haben die folgenden Dateierweiterungen?
 
     | Dateierweiterung | Bedeutung  |
     | ---------------- |:---------- |
