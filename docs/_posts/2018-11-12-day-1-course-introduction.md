@@ -1,8 +1,6 @@
 ## Checkliste
 
-### Software ist installiert
-
-- [ ] **Node JS**
+- [ ] Software ist installiert
     
     | Software  | Check  | Installation |
     | --|----- | ---- |
