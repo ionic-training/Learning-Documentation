@@ -134,15 +134,10 @@ ionic serve
 			<th align="left">Frage</th>
 			<th align="left">Antwort</th>
 	</tr>
-	<tr><td>Programmiersprache</td><td>____________________________________________________</td></tr>
-	<tr><td>Dateierweiterung</td><td>____________________________________________________</td></tr>
+	<tr><td>Programmiersprache</td><td></td></tr>
+	<tr><td>Dateierweiterung</td><td></td></tr>
 	</tbody>
 </table>
-
-| Frage  |Antwort |
-| --|-- |
-| Programmiersprache | ____________________________________________________ |
-| Dateierweiterung | ____________________________________________________ |
 
 ### Welche Bedeutung haben die folgenden Dateierweiterungen?
 
@@ -152,13 +147,13 @@ ionic serve
 			<th align="left">Dateierweiterung</th>
 			<th align="left">Bedeutung</th>
 	</tr>
-	<tr><td>.html	</td><td>____________________________________________________</td></tr>
-	<tr><td>.css	</td><td>____________________________________________________</td></tr>
-	<tr><td>.scss	</td><td>____________________________________________________</td></tr>
-	<tr><td>.js		</td><td>____________________________________________________</td></tr>
-	<tr><td>.ts		</td><td>____________________________________________________</td></tr>
-	<tr><td>.json	</td><td>____________________________________________________</td></tr>
-	<tr><td>.spec.ts</td><td>____________________________________________________</td></tr>
+	<tr><td>.html	</td><td></td></tr>
+	<tr><td>.css	</td><td></td></tr>
+	<tr><td>.scss	</td><td></td></tr>
+	<tr><td>.js		</td><td></td></tr>
+	<tr><td>.ts		</td><td></td></tr>
+	<tr><td>.json	</td><td></td></tr>
+	<tr><td>.spec.ts</td><td></td></tr>
 	</tbody>
 </table>
 
