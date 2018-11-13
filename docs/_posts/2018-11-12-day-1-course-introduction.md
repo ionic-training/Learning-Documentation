@@ -15,7 +15,7 @@ introduction:
 
 ## Checkliste
 
-1. Software ist installiert
+### Software ist installiert
     
     | Software  | Check  | Installation |
     | --|----- | ---- |
@@ -24,7 +24,7 @@ introduction:
     | Visual Studio Code | `code`  | [Homepage](https://code.visualstudio.com/) |
     | Git Versionskontrolle | `git`  | [Windows](https://git-scm.com/download/win) [Linux](https://git-scm.com/download/linux) [Mac OS](https://git-scm.com/download/mac) |
     
-2. Beispielanwendungen funktionieren
+### Beispielanwendungen funktionieren
 
     | Anwendung | Check |
     | ----------| ----- |
@@ -33,21 +33,21 @@ introduction:
 	| blank     | Ja/Nein|
 	
 
-3. Screendump an Kursleiter gesendet
+### Screendump an Kursleiter gesendet
 
      Starte bitte die Kommandoeingabe und eine Anwendung, öffne den Programmcode in Visual Studio Code und erstelle einen Screendump auf dem man alle 3 Fenster sehen kann: VS Code, Anwendung/Internet Explorer, Kommandozeile
 
 ## Übungen
 
-1. Erstelle eine neue App, basierend auf der Vorlagen `sidemenu`
+### Erstelle eine neue App, basierend auf der Vorlagen `sidemenu`
 
-2. Starte die neu erstellte App
+### Starte die neu erstellte App
 
-3. Erstelle eine neue App, basierend auf der Vorlagen `tabs`
+### Erstelle eine neue App, basierend auf der Vorlagen `tabs`
 
-4. Starte die neu erstellte App
+### Starte die neu erstellte App
 
-5. Installieren eine Demo-App
+### Installieren eine Demo-App
     
    Öffne die Enrichment-Kommandozeile
    
