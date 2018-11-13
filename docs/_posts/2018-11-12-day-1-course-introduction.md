@@ -22,11 +22,13 @@ introduction:
 			<th align="left">Software</th>
 			<th align="left">Check</th>
 			<th align="left">Installation</th>
-	</tr>
-	<tr><td>Node JS/td>				</td><td>`node --version`	</td><td><a href="https://nodejs.org/download/release/latest-v8.x/">Download</a>						</td></tr>
-	<tr><td>Ionic/td>				</td><td>`ionic --version`	</td><td>[unter Unix](http://blog.via-internet.de/blog/2018/11/09/ionic-4-installation-on-unix/)		</td></tr>
-	<tr><td>Visual Studio Code		</td><td>`code`				</td><td>[Homepage](https://code.visualstudio.com/)														</td></tr>
-	<tr><td>Git Versionskontrolle	</td><td>`git`				</td><td>[Windows](https://git-scm.com/download/win) [Linux](https://git-scm.com/download/linux) [Mac OS](https://git-scm.com/download/mac)</td></tr>
+		</tr>
+		<tr><td>Node JS/td>				</td><td>`node --version`	</td><td><a href="https://nodejs.org/download/release/latest-v8.x/">Download</a>							</td></tr>
+		<tr><td>Ionic/td>				</td><td>`ionic --version`	</td><td><a href="http://blog.via-internet.de/blog/2018/11/09/ionic-4-installation-on-unix/">unter Unix</a>	</td></tr>
+		<tr><td>Visual Studio Code		</td><td>`code`				</td><td><a href="https://code.visualstudio.com">Homepage</a>												</td></tr>
+		<tr><td>Git Versionskontrolle	</td><td>`git`				</td><td><a href="https://git-scm.com/download/win">Windows</a>
+																		 	<a href="https://git-scm.com/download/linux">Linux</a>
+																		 	<a href="https://git-scm.com/download/mac">Mac OS</a>												</td></tr>
 
 	</tbody>
 </table>
@@ -39,9 +41,9 @@ introduction:
 			<th align="left">App</th>
 			<th align="left">Check</th>
 	</tr>
-	<tr><td>sidemenu</td><td>Ja / Nein</td></tr>
-	<tr><td>tabs</td><td>Ja / Nein</td></tr>
-	<tr><td>blank</td><td>Ja / Nein</td></tr>
+	<tr><td>sidemenu	</td><td>Ja / Nein</td></tr>
+	<tr><td>tabs		</td><td>Ja / Nein</td></tr>
+	<tr><td>blank		</td><td>Ja / Nein</td></tr>
 	</tbody>
 </table>
 
