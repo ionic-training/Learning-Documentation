@@ -64,47 +64,46 @@ ionic serve
 
 ## Fragen
 
-1. In welchem Verzeichnis liegen die Dateien für die beiden Seiten `home` und `list`
+### In welchem Verzeichnis liegen die Dateien für die beiden Seiten `home` und `list`
 
-    | Seite  |Verzeichnis |
-    | --|-- |
-    | list | `____________________________________________________` |
-    | home | `____________________________________________________` |
-    
-2. In welchem Verzeichnis liegt die Startdatei eurer Anwendung `index.html`
+| Seite  |Verzeichnis |
+| --|-- |
+| list | `____________________________________________________` |
+| home | `____________________________________________________` |
+ 
+### In welchem Verzeichnis liegt die Startdatei eurer Anwendung `index.html`
 
-    | Seite  |Verzeichnis |
-    | --|-- |
-    | index.html | `____________________________________________________` |
+| Seite  |Verzeichnis |
+| --|-- |
+| index.html | ____________________________________________________ |
 
-3. In welchen Dateien werden die folgenden Inhalt eurer Anwendung gespeichert?
+### In welchen Dateien werden die folgenden Inhalt eurer Anwendung gespeichert?
 
-    | Inhalt  |Verzeichnis |
-    | --|-- |
-    | Aufbau der Seite|-- |
-    | Überschriften|-- |
-    | Bilder|-- |
-    | Texte|-- |
-    | Aussehen, Farben | `____________________________________________________` |
+| Inhalt  |Verzeichnis |
+| --|-- |
+| Aufbau der Seite|-- |
+| Überschriften|-- |
+| Bilder|-- |
+| Texte|-- |
+| Aussehen, Farben | ____________________________________________________ |
 
 
-4. In welchen Dateien wird der Programmcode eurer Anwendung definiert?
+### In welchen Dateien wird der Programmcode eurer Anwendung definiert?
 
-    | Frage  |Antwort |
-    | --|-- |
-    | Programmiersprache | `____________________________________________________` |
-    | Dateierweiterung | `____________________________________________________` |
-    
-5. Welche Bedeutung haben die folgenden Dateierweiterungen?
+| Frage  |Antwort |
+| --|-- |
+| Programmiersprache | ____________________________________________________ |
+| Dateierweiterung | ____________________________________________________ |
 
-    | Dateierweiterung | Bedeutung  |
-    | ---------------- |:---------- |
-    | .html          | `____________________________________________________` |
-    | .css           | `____________________________________________________` |
-    | .scss          | `____________________________________________________` |
-    | .js            | `____________________________________________________` |
-    | .ts            | `____________________________________________________` |
-    | .spec.ts       | `____________________________________________________` |
-    | .json          | `____________________________________________________` |
-    | .spec.json     | `____________________________________________________` |
+### Welche Bedeutung haben die folgenden Dateierweiterungen?
 
+| Dateierweiterung | Bedeutung  |
+| ---------------- |:---------- |
+| .html          | ____________________________________________________ |
+| .css           | ____________________________________________________ |
+| .scss          | ____________________________________________________ |
+| .js            | ____________________________________________________ |
+| .ts            | ____________________________________________________ |
+| .spec.ts       | ____________________________________________________ |
+| .json          | ____________________________________________________ |
+| .spec.json     | ____________________________________________________ |
