@@ -51,15 +51,16 @@ introduction:
     
    Öffne die Enrichment-Kommandozeile
    
-   ```
-   mkdir 02_beispiele
-   cd    02_beispiele
+{% highlight shell %}
+mkdir 02_beispiele
+cd    02_beispiele
 
-   git clone https://github.com/ionic-team/ionic-preview-app.git
-   cd ionic-preview-app
+git clone https://github.com/ionic-team/ionic-preview-app.git
+cd ionic-preview-app
 
-   npm install
-   ionic serve
+npm install
+ionic serve
+{% endhighlight %}   
 
 ## Fragen
 
