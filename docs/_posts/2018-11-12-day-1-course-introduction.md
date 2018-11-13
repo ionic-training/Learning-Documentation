@@ -63,8 +63,8 @@ introduction:
 Öffne die Enrichment-Kommandozeile
 
 {% highlight shell %}
-mkdir 01_uebungen
-cd    01_uebungen
+mkdir C:\Enrichtment\Daten\01_uebungen
+cd    C:\Enrichtment\Daten\01_uebungen
 
 ionic ?????
 {% endhighlight %} 
@@ -78,6 +78,7 @@ ionic ?????
 ### 3. Erstelle eine neue App, basierend auf der Vorlagen <pre>tabs</pre>
 
 {% highlight shell %}
+cd    C:\Enrichtment\Daten\01_uebungen
 ionic ?????
 {% endhighlight %} 
 
@@ -92,6 +93,8 @@ ionic ?????
 Öffne die Enrichment-Kommandozeile
 
 {% highlight shell %}
+cd    C:\Enrichtment\Daten
+
 mkdir 02_beispiele
 cd    02_beispiele
 
