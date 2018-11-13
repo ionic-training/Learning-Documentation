@@ -5,7 +5,7 @@ title: "Day 8: Advanced Ionic"
 date: 2018-11-12 23:01:44
 image: '/assets/img/'
 description:
-main-class: 'inoic'
+main-class: 'ionic'
 color:
 tags:
 categories:

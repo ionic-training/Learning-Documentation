@@ -8,6 +8,8 @@ description:
 main-class: 'html'
 color:
 tags:
+- html
+- css
 categories:
 twitter_text:
 introduction:

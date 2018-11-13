@@ -8,6 +8,7 @@ description:
 main-class: 'ionic'
 color:
 tags:
+- ionic
 categories:
 twitter_text:
 introduction:
