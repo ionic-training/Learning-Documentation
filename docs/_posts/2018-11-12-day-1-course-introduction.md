@@ -91,8 +91,8 @@ ionic serve
 			<th align="left">Seite</th>
 			<th align="left">Verzeichnis</th>
 	</tr>
-	<tr><td>list</td><td>____________________________________________________</td></tr>
-	<tr><td>home</td><td>____________________________________________________</td></tr>
+	<tr><td>list</td><td> </td></tr>
+	<tr><td>home</td><td> </td></tr>
 	</tbody>
 </table>
 
@@ -105,7 +105,7 @@ ionic serve
 			<th align="left">Datei</th>
 			<th align="left">Verzeichnis</th>
 	</tr>
-	<tr><td>index.html</td><td>____________________________________________________</td></tr>
+	<tr><td>index.html</td><td> </td></tr>
 	</tbody>
 </table>
 
@@ -117,12 +117,12 @@ ionic serve
 			<th align="left">Inhalt</th>
 			<th align="left">Verzeichnis</th>
 	</tr>
-	<tr><td>Aufbau der Seite</td><td>____________________________________________________</td></tr>
-	<tr><td>Überschriften</td><td>____________________________________________________</td></tr>
-	<tr><td>Bilder</td><td>____________________________________________________</td></tr>
-	<tr><td>Texte</td><td>____________________________________________________</td></tr>
-	<tr><td>Farben</td><td>____________________________________________________</td></tr>
-	<tr><td>Schriftarten</td><td>____________________________________________________</td></tr>
+	<tr><td>Aufbau der Seite</td><td> </td></tr>
+	<tr><td>Überschriften</td><td> </td></tr>
+	<tr><td>Bilder</td><td> </td></tr>
+	<tr><td>Texte</td><td> </td></tr>
+	<tr><td>Farben</td><td> </td></tr>
+	<tr><td>Schriftarten</td><td> </td></tr>
 	</tbody>
 </table>
 
