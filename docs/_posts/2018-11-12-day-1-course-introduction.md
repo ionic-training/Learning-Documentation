@@ -15,7 +15,7 @@ introduction:
 
 ## Checkliste
 
-- Software ist installiert
+1. Software ist installiert
     
     | Software  | Check  | Installation |
     | --|----- | ---- |
@@ -24,7 +24,7 @@ introduction:
     | Visual Studio Code | `code`  | [Homepage](https://code.visualstudio.com/) |
     | Git Versionskontrolle | `git`  | [Windows](https://git-scm.com/download/win) [Linux](https://git-scm.com/download/linux) [Mac OS](https://git-scm.com/download/mac) |
     
-- Beispielanwendungen funktionieren
+2. Beispielanwendungen funktionieren
 
     | Anwendung | Check |
     | ----------| ----- |
@@ -33,7 +33,7 @@ introduction:
 	| blank     | Ja/Nein|
 	
 
-- Screendump an Kursleiter gesendet
+3. Screendump an Kursleiter gesendet
 
      Starte bitte die Kommandoeingabe und eine Anwendung, öffne den Programmcode in Visual Studio Code und erstelle einen Screendump auf dem man alle 3 Fenster sehen kann: VS Code, Anwendung/Internet Explorer, Kommandozeile
 
