@@ -40,10 +40,10 @@ introduction:
 		<tr>
 			<th align="left">App</th>
 			<th align="left">Check</th>
-	</tr>
-	<tr><td>sidemenu	</td><td>Ja / Nein</td></tr>
-	<tr><td>tabs		</td><td>Ja / Nein</td></tr>
-	<tr><td>blank		</td><td>Ja / Nein</td></tr>
+		</tr>
+		<tr><td>sidemenu	</td><td>Ja / Nein</td></tr>
+		<tr><td>tabs		</td><td>Ja / Nein</td></tr>
+		<tr><td>blank		</td><td>Ja / Nein</td></tr>
 	</tbody>
 </table>
 
