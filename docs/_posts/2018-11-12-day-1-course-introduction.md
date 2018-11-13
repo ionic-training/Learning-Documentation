@@ -1,29 +1,16 @@
-# Welcome to StackEdit!
-
-# Voraussetzungen
-
-## Installation
-Damit wir in diesem urs mit Ionic arbeiten können, sollte eine Reihe von Softwarepaketen auf dem REchner installiert sein:
-
-- Node JS
-- Ionic
-- Visual Studio Code
-- Git Version Control
-
-
-## Abschluss-Checkliste
+## Checkliste
 
 ### Software ist installiert
-Installationsanleitungen gibt es hier
 
-- [ ] **Node JS** 
-Überprüfen mit: `node --version`
-- [ ] **Ionic** 
-Überprüfen mit: `ionic --version`
-- [ ] **Visual Studio Code** 
-Überprüfen mit:  `code`
-- [ ] **Git Versionskontrolle**
-Überprüfen mit: `git --version`
+- [ ] **Node JS**
+    
+    | Software  | Check  | Installation |
+    | --|----- | ---- |
+    | Node JS | `node --version`  | [Download](https://nodejs.org/download/release/latest-v8.x/) |
+    | Ionic | `ionic --version`  | [unter Unix](http://blog.via-internet.de/blog/2018/11/09/ionic-4-installation-on-unix/) |
+    | Visual Studio Code | `code`  | [Homepage](https://code.visualstudio.com/) |
+    | Git Versionskontrolle | `git`  | [Windows](https://git-scm.com/download/win) [Linux](https://git-scm.com/download/linux) [Mac OS](https://git-scm.com/download/mac) |
+    
 
 ## Übungen
 
@@ -39,30 +26,41 @@ Installationsanleitungen gibt es hier
 
 1. In welchem Verzeichnis liegen die Dateien für die beiden Seiten `home` und `list`
 
-| Antwort |        |
-| :------ | :----- |
-| home    | ?      |
-| list    | ?      |
-
-
+    | Seite  |Verzeichnis |
+    | --|-- |
+    | list | `____________________________________________________` |
+    | home | `____________________________________________________` |
+    
 2. In welchem Verzeichnis liegt die Startdatei eurer Anwendung `index.html`
+    | Seite  |Verzeichnis |
+    | --|-- |
+    | index.html | `____________________________________________________` |
 
-3. In welchen Dateiene wird der Inhalt eurer Anwendung gespeichert , z. B. der Aufbau, die Überschriften, die Inhalte und Bilder
+4. In welchen Dateien werden die folgenden Inhalt eurer Anwendung gespeichert:
+    | Inhalt  |Verzeichnis |
+    | --|-- |
+    | Aufbau der Seite|-- |
+    | Überschriften|-- |
+    | Bilder|-- |
+    | Texte|-- |
+    | Aussehen, Farben | `____________________________________________________` |
 
-4. In welchen Dateien wird das Aussehen eurer Anwendung definiert, z. B. die Farben oder die Schriftarten
 
-5. In welchen Dateien wird der Programmcode eurer Anwendung definiert?
-
-6. Welche Bedeutung haben die folgenden Dateierweiterungen:
-
-| Dateierweiterung | Bedeutung  |
-| ---------------- |:----------:|
-| `.html`          |            |
-| `.css`           |            |
-| `.scss`          |            |
-| `.js`            |            |
-| `.ts`            |            |
-| `.spec.ts`       |            |
-| `.json`          |            |
-| `.spec.json`     |            |
+6. In welchen Dateien wird der Programmcode eurer Anwendung definiert?
+    | Frage  |Antwort |
+    | --|-- |
+    | Programmiersprache | `____________________________________________________` |
+    | Dateierweiterung | `____________________________________________________` |
+    
+7. Welche Bedeutung haben die folgenden Dateierweiterungen:
+    | Dateierweiterung | Bedeutung  |
+    | ---------------- |:---------- |
+    | .html          | `____________________________________________________` |
+    | .css           | `____________________________________________________` |
+    | .scss          | `____________________________________________________` |
+    | .js            | `____________________________________________________` |
+    | .ts            | `____________________________________________________` |
+    | .spec.ts       | `____________________________________________________` |
+    | .json          | `____________________________________________________` |
+    | .spec.json     | `____________________________________________________` |
 
