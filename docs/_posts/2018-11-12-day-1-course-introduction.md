@@ -56,7 +56,6 @@ introduction:
 </table>
 
 ### 2. Beispielanwendungen funktionieren
-
 <table style="width: 600px">
 	<colgroup>
 		<col width="30%" />
@@ -76,7 +75,6 @@ introduction:
 </table>
 
 ### 3. Screendump an Kursleiter gesendet
-
 1. Starte bitte die Kommandoeingabe und eine Anwendung
 2. Öffne den Programmcode in Visual Studio Code und
 3. Erstelle einen Screendump auf dem man alle 3 Fenster sehen kann: 
@@ -88,7 +86,6 @@ introduction:
 ## Übungen
 
 ### 1. Erstelle eine neue App, basierend auf der Vorlagen  "sidemenu"
-
 Öffne die Enrichment-Kommandozeile
 
 {% highlight shell %}
@@ -99,26 +96,22 @@ ionic ?????
 {% endhighlight %} 
 
 ### 2. Starte die neu erstellte App
-
 {% highlight shell %}
 ionic ?????
 {% endhighlight %} 
 
 ### 3. Erstelle eine neue App, basierend auf der Vorlagen "tabs"
-
 {% highlight shell %}
 cd    C:/Enrichtment/Daten/01_uebungen
 ionic ?????
 {% endhighlight %} 
 
 ### 4. Starte die neu erstellte App
-
 {% highlight shell %}
 ionic ?????
 {% endhighlight %} 
 
 ### 5. Installieren eine Demo-App
-
 Öffne die Enrichment-Kommandozeile
 
 {% highlight shell %}
@@ -137,7 +130,6 @@ ionic serve
 ## Fragen
 
 ### 1. In welchem Verzeichnis liegen die Dateien für die beiden Seiten  "home" und "list"
-
 <table style="width: 600px">
 	<colgroup>
 		<col width="30%" />
@@ -157,7 +149,6 @@ ionic serve
 
  
 ### 2. In welchem Verzeichnis liegt die Startdatei eurer Anwendung "index.html"
-
 <table style="width: 600px">
 	<colgroup>
 		<col width="30%" />
@@ -175,7 +166,6 @@ ionic serve
 </table>
 
 ### 3. In welchen Dateien werden die folgenden Inhalt eurer Anwendung gespeichert?
-
 <table style="width: 600px">
 	<colgroup>
 		<col width="30%" />
@@ -198,7 +188,6 @@ ionic serve
 </table>
 
 ### 4. In welchen Dateien wird der Programmcode eurer Anwendung definiert?
-
 <table style="width: 600px">
 	<colgroup>
 		<col width="30%" />
@@ -217,7 +206,6 @@ ionic serve
 </table>
 
 ### 5. Welche Bedeutung haben die folgenden Dateierweiterungen?
-
 <table style="width: 600px">
 	<colgroup>
 		<col width="30%" />
