@@ -19,18 +19,36 @@ introduction:
 
 | Software  | Check  | Installation |
 | --|----- | ---- |
-| Node JS | `node --version`  | [Download](https://nodejs.org/download/release/latest-v8.x/) |
-| Ionic | `ionic --version`  | [unter Unix](http://blog.via-internet.de/blog/2018/11/09/ionic-4-installation-on-unix/) |
-| Visual Studio Code | `code`  | [Homepage](https://code.visualstudio.com/) |
-| Git Versionskontrolle | `git`  | [Windows](https://git-scm.com/download/win) [Linux](https://git-scm.com/download/linux) [Mac OS](https://git-scm.com/download/mac) |
+
     
+<table style="width: 100%">
+	<tbody>
+		<tr>
+			<th align="left">Software</th>
+			<th align="left">Check</th>
+			<th align="left">Installation</th>
+	</tr>
+	<tr><td>Node JS/td><td>`node --version`/td><td>[Download](https://nodejs.org/download/release/latest-v8.x/)/td></tr>
+<tr><td>Ionic/td><td>`ionic --version`/td><td>[unter Unix](http://blog.via-internet.de/blog/2018/11/09/ionic-4-installation-on-unix/)/td></tr>
+<tr><td>Visual Studio Code/td><td>`code`/td><td>[Homepage](https://code.visualstudio.com/)/td></tr>
+<tr><td>Git Versionskontrolle/td><td>`git`/td><td>[Windows](https://git-scm.com/download/win) [Linux](https://git-scm.com/download/linux) [Mac OS](https://git-scm.com/download/mac)/td></tr>
+
+	</tbody>
+</table>
+
 ### Beispielanwendungen funktionieren
 
-| Anwendung | Check |
-| ----------| ----- |
-| sidemenu  | Ja/Nein|
-| tabs      | Ja/Nein|
-| blank     | Ja/Nein|
+<table style="width: 100%">
+	<tbody>
+		<tr>
+			<th align="left">App</th>
+			<th align="left">Check</th>
+	</tr>
+	<tr><td>sidemenu</td><td>Ja / Nein</td></tr>
+	<tr><td>tabs</td><td>Ja / Nein</td></tr>
+	<tr><td>blank</td><td>Ja / Nein</td></tr>
+	</tbody>
+</table>
 
 ### Screendump an Kursleiter gesendet
 
