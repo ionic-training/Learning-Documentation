@@ -4,7 +4,7 @@ comments: true
 title: "Day 1: Introduction"
 date: 2018-11-12 23:01:44
 image: '/assets/img/'
-description: Heute lernen wir etwas uuml;ber die Anforderungen an die Ionic-Entwicklung. Inbesondere die notwendige Software. Am Ende gibts es auch noch ein paar &Uul;bungen und Fragen
+description: Heute lernen wir etwas über die Anforderungen an die Ionic-Entwicklung. Inbesondere die notwendige Software. Am Ende gibts es auch noch ein paar Übungen und Fragen
 main-class: 'info'
 color:
 tags:
@@ -24,9 +24,9 @@ introduction:
 			<th align="left">Installation</th>
 		</tr>
 		<tr><td>Node JS				</td><td><pre>node --version</pre>									</td><td><a href="https://nodejs.org/download/release/latest-v8.x/">Download</a>							</td></tr>
-		<tr><td>Ionic				</td><td>`ionic --version`	</td><td><a href="http://blog.via-internet.de/blog/2018/11/09/ionic-4-installation-on-unix/">unter Unix</a>	</td></tr>
-		<tr><td>Visual Studio Code		</td><td>`code`				</td><td><a href="https://code.visualstudio.com">Homepage</a>												</td></tr>
-		<tr><td>Git Versionskontrolle	</td><td>`git`				</td><td><a href="https://git-scm.com/download/win">Windows</a>
+		<tr><td>Ionic				</td><td> <pre>ionic --version</pre>	</td><td><a href="http://blog.via-internet.de/blog/2018/11/09/ionic-4-installation-on-unix/">unter Unix</a>	</td></tr>
+		<tr><td>Visual Studio Code		</td><td> <pre>code</pre>				</td><td><a href="https://code.visualstudio.com">Homepage</a>												</td></tr>
+		<tr><td>Git Versionskontrolle	</td><td> <pre>git</pre>				</td><td><a href="https://git-scm.com/download/win">Windows</a>
 																		 	<a href="https://git-scm.com/download/linux">Linux</a>
 																		 	<a href="https://git-scm.com/download/mac">Mac OS</a>												</td></tr>
 
@@ -58,11 +58,11 @@ introduction:
 
 ## Übungen
 
-### Erstelle eine neue App, basierend auf der Vorlagen `sidemenu`
+### Erstelle eine neue App, basierend auf der Vorlagen  <pre>sidemenu <pre>
 
 ### Starte die neu erstellte App
 
-### Erstelle eine neue App, basierend auf der Vorlagen `tabs`
+### Erstelle eine neue App, basierend auf der Vorlagen  <pre>tabs <pre>
 
 ### Starte die neu erstellte App
 
@@ -83,7 +83,7 @@ ionic serve
 
 ## Fragen
 
-### In welchem Verzeichnis liegen die Dateien für die beiden Seiten `home` und `list`
+### In welchem Verzeichnis liegen die Dateien für die beiden Seiten  <pre>home <pre> und  <pre>list <pre>
 
 <table style="width: 400px">
 	<tbody>
@@ -97,7 +97,7 @@ ionic serve
 </table>
 
  
-### In welchem Verzeichnis liegt die Startdatei eurer Anwendung `index.html`
+### In welchem Verzeichnis liegt die Startdatei eurer Anwendung  <pre>index.html <pre>
 
 <table style="width: 400px">
 	<tbody>
@@ -105,7 +105,7 @@ ionic serve
 			<th align="left">Datei</th>
 			<th align="left">Verzeichnis</th>
 	</tr>
-	<tr><td>index.html</td><td> </td></tr>
+	<tr><td>index.html</td><td>-</td></tr>
 	</tbody>
 </table>
 
