@@ -136,7 +136,7 @@ ionic serve
 
 ## Fragen
 
-### In welchem Verzeichnis liegen die Dateien für die beiden Seiten  "home" und "list"
+### 1. In welchem Verzeichnis liegen die Dateien für die beiden Seiten  "home" und "list"
 
 <table style="width: 600px">
 	<colgroup>
@@ -156,7 +156,7 @@ ionic serve
 </table>
 
  
-### In welchem Verzeichnis liegt die Startdatei eurer Anwendung "index.html"
+### 2. In welchem Verzeichnis liegt die Startdatei eurer Anwendung "index.html"
 
 <table style="width: 600px">
 	<colgroup>
@@ -174,7 +174,7 @@ ionic serve
 	</tbody>
 </table>
 
-### In welchen Dateien werden die folgenden Inhalt eurer Anwendung gespeichert?
+### 3. In welchen Dateien werden die folgenden Inhalt eurer Anwendung gespeichert?
 
 <table style="width: 600px">
 	<colgroup>
@@ -197,7 +197,7 @@ ionic serve
 	</tbody>
 </table>
 
-### In welchen Dateien wird der Programmcode eurer Anwendung definiert?
+### 4. In welchen Dateien wird der Programmcode eurer Anwendung definiert?
 
 <table style="width: 600px">
 	<colgroup>
@@ -216,7 +216,7 @@ ionic serve
 	</tbody>
 </table>
 
-### Welche Bedeutung haben die folgenden Dateierweiterungen?
+### 5. Welche Bedeutung haben die folgenden Dateierweiterungen?
 
 <table style="width: 600px">
 	<colgroup>
