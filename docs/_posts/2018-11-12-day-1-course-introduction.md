@@ -16,7 +16,7 @@ introduction:
 ## Checkliste
 
 ### Software ist installiert
-<table style="width: 400px">
+<table style="width: 600px">
 	<tbody>
 		<tr>
 			<th align="left">Software</th>
@@ -35,7 +35,7 @@ introduction:
 
 ### Beispielanwendungen funktionieren
 
-<table style="width: 400px">
+<table style="width: 600px">
 	<tbody>
 		<tr>
 			<th align="left">App</th>
@@ -85,7 +85,7 @@ ionic serve
 
 ### In welchem Verzeichnis liegen die Dateien für die beiden Seiten  <pre>home <pre> und  <pre>list <pre>
 
-<table style="width: 400px">
+<table style="width: 600px">
 	<tbody>
 		<tr>
 			<th align="left">Seite</th>
@@ -99,7 +99,7 @@ ionic serve
  
 ### In welchem Verzeichnis liegt die Startdatei eurer Anwendung  <pre>index.html <pre>
 
-<table style="width: 400px">
+<table style="width: 600px">
 	<tbody>
 		<tr>
 			<th align="left">Datei</th>
@@ -111,7 +111,7 @@ ionic serve
 
 ### In welchen Dateien werden die folgenden Inhalt eurer Anwendung gespeichert?
 
-<table style="width: 400px">
+<table style="width: 600px">
 	<tbody>
 		<tr>
 			<th align="left">Inhalt</th>
@@ -128,7 +128,7 @@ ionic serve
 
 ### In welchen Dateien wird der Programmcode eurer Anwendung definiert?
 
-<table style="width: 400px">
+<table style="width: 600px">
 	<tbody>
 		<tr>
 			<th align="left">Frage</th>
@@ -141,7 +141,7 @@ ionic serve
 
 ### Welche Bedeutung haben die folgenden Dateierweiterungen?
 
-<table style="width: 400px">
+<table style="width: 600px">
 	<tbody>
 		<tr>
 			<th align="left">Dateierweiterung</th>
