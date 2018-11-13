@@ -24,9 +24,9 @@ introduction:
 			<th align="left">Installation</th>
 		</tr>
 		<tr><td>Node JS				</td><td><pre>node --version</pre>									</td><td><a href="https://nodejs.org/download/release/latest-v8.x/">Download</a>							</td></tr>
-		<tr><td>Ionic				</td><td> <pre>ionic --version</pre>	</td><td><a href="http://blog.via-internet.de/blog/2018/11/09/ionic-4-installation-on-unix/">unter Unix</a>	</td></tr>
-		<tr><td>Visual Studio Code		</td><td> <pre>code</pre>				</td><td><a href="https://code.visualstudio.com">Homepage</a>												</td></tr>
-		<tr><td>Git Versionskontrolle	</td><td> <pre>git</pre>				</td><td><a href="https://git-scm.com/download/win">Windows</a>
+		<tr><td>Ionic				</td><td> <pre>ionic --version</pre>								</td><td><a href="http://blog.via-internet.de/blog/2018/11/09/ionic-4-installation-on-unix/">unter Unix</a>	</td></tr>
+		<tr><td>Visual Studio Code		</td><td> <pre>code</pre>										</td><td><a href="https://code.visualstudio.com">Homepage</a>												</td></tr>
+		<tr><td>Git Versionskontrolle	</td><td> <pre>git --version</pre>								</td><td><a href="https://git-scm.com/download/win">Windows</a>
 																		 	<a href="https://git-scm.com/download/linux">Linux</a>
 																		 	<a href="https://git-scm.com/download/mac">Mac OS</a>												</td></tr>
 
@@ -58,13 +58,13 @@ introduction:
 
 ## Übungen
 
-### 1. Erstelle eine neue App, basierend auf der Vorlagen  <pre>sidemenu</pre>
+### 1. Erstelle eine neue App, basierend auf der Vorlagen  "sidemenu"
 
 Öffne die Enrichment-Kommandozeile
 
 {% highlight shell %}
-mkdir C:\Enrichtment\Daten\01_uebungen
-cd    C:\Enrichtment\Daten\01_uebungen
+mkdir C:/Enrichtment/Daten/01_uebungen
+cd    C:/Enrichtment/Daten/01_uebungen
 
 ionic ?????
 {% endhighlight %} 
@@ -75,10 +75,10 @@ ionic ?????
 ionic ?????
 {% endhighlight %} 
 
-### 3. Erstelle eine neue App, basierend auf der Vorlagen <pre>tabs</pre>
+### 3. Erstelle eine neue App, basierend auf der Vorlagen "tabs"
 
 {% highlight shell %}
-cd    C:\Enrichtment\Daten\01_uebungen
+cd    C:/Enrichtment/Daten/01_uebungen
 ionic ?????
 {% endhighlight %} 
 
@@ -93,7 +93,7 @@ ionic ?????
 Öffne die Enrichment-Kommandozeile
 
 {% highlight shell %}
-cd    C:\Enrichtment\Daten
+cd    C:/Enrichtment/Daten
 
 mkdir 02_beispiele
 cd    02_beispiele
