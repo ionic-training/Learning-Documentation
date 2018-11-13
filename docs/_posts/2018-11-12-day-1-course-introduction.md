@@ -50,11 +50,12 @@ introduction:
 ### 3. Screendump an Kursleiter gesendet
 
 1. Starte bitte die Kommandoeingabe und eine Anwendung
-2. öffne den Programmcode in Visual Studio Code und
-3. erstelle einen Screendump auf dem man alle 3 Fenster sehen kann: 
+2. Öffne den Programmcode in Visual Studio Code und
+3. Erstelle einen Screendump auf dem man alle 3 Fenster sehen kann: 
    - VS Code, 
    - Anwendung/Internet Explorer
    - Kommandozeile
+4. Schickt mir den Screendump
 
 ## Übungen
 
