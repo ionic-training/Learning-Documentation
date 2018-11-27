@@ -4,7 +4,7 @@ comments: true
 title: "Day 2: Basics of HTML and CSS"
 date: 2018-11-12 23:01:44
 image: '/assets/img/'
-description:
+description: Heute lernen wir HTML und CSS anzuwenden. Am Ende gibts es auch noch ein paar Übungen und Fragen
 main-class: 'html'
 color:
 tags:
@@ -39,21 +39,25 @@ introduction:
 
 ### home.page.html
 
-    <ion-content padding>
-        <h1>Überschrift H1</h1>
-        <h2>Überschrift H2</h2>
-    </ion-content>
+{% highlight shell %}
+<ion-content padding>
+	<h1>Überschrift H1</h1>
+	<h2>Überschrift H2</h2>
+</ion-content>
+{% endhighlight %}
 
 ### home.page.scss
 
-    h1 {
-        color: #ff0000;
-        background-color: #000000;
-        font-family: 'Courier New', Courier, monospace;
-    }
-    
-    h2 {
-        color: #000000;
-        background-color: #ff0000;
-        font-style: italic;
-    }
+{% highlight shell %}
+h1 {
+	color: #ff0000;
+	background-color: #000000;
+	font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+	color: #000000;
+	background-color: #ff0000;
+	font-style: italic;
+}
+{% endhighlight %}
