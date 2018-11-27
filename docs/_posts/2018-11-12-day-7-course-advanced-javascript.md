@@ -8,6 +8,7 @@ description:
 main-class: 'js'
 color:
 tags:
+- js
 categories:
 twitter_text:
 introduction:
