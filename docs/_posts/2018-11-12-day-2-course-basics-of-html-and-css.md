@@ -19,21 +19,29 @@ introduction:
 
 ## Change title
 
-	<ion-title>CSS 01</ion-title>
-	<ion-buttons slot="start">
-		<ion-menu-button></ion-menu-button>
-	</ion-buttons>
+{% highlight shell %}
+<ion-title>CSS 01</ion-title>
+<ion-buttons slot="start">
+	<ion-menu-button></ion-menu-button>
+</ion-buttons>
+{% endhighlight %}
 
 ## Change title color: add in file css01.page.scss
-    ion-title {
-        --color: #3880ff;
-    }
+
+{% highlight shell %}
+ion-title {
+    --color: #3880ff;
+}
+{% endhighlight %}
 
  ## Add background color
-    ion-title {
-        --color: #ffffff;
-        background-color: #ff0000;
-    }
+ 
+{% highlight shell %}
+ion-title {
+    color: #ffffff;
+    background-color: #ff0000;
+}
+{% endhighlight %}
 
 ## Add additional text with formatting and style
 
