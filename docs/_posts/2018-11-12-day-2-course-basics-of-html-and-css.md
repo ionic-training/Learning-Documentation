@@ -70,6 +70,7 @@ h2 {
 }
 {% endhighlight %}
 
+<<<<<<< HEAD
 ## Weitere Beispiele: home.page.html
 
 {% highlight shell %}
