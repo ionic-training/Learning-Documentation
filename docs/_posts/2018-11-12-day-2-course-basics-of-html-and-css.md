@@ -19,16 +19,13 @@ introduction:
 
 ## Titel ändern
 
-{% highlight shell %}
-	<ion-title>CSS 01</ion-title>
-	<ion-buttons slot="start">
-		<ion-menu-button></ion-menu-button>
-	</ion-buttons>
+{% highlight html %}
+<ion-title>Arbeiten mit CSS</ion-title>
 {% endhighlight %}
 
 ## Farbe des Titels: home.page.scss
 
-{% highlight shell %}
+{% highlight css %}
 ion-title {
 	color: #3880ff;
 }
@@ -36,18 +33,18 @@ ion-title {
 
 ## Farbe des Hintergrund
 
-{% highlight shell %}
+{% highlight css %}
 ion-title {
 	color: #ffffff;
 	background-color: #ff0000;
 }
 {% endhighlight %}
 
-##Weiterer Text und Formatierung
+## Weiterer Text und Formatierung
 
 ### home.page.html
 
-{% highlight shell %}
+{% highlight html %}
 <ion-content padding>
 	<h1>Überschrift H1</h1>
 	<h2>Überschrift H2</h2>
@@ -56,7 +53,7 @@ ion-title {
 
 ### home.page.scss
 
-{% highlight shell %}
+{% highlight css %}
 h1 {
 	color: #ff0000;
 	background-color: #000000;
@@ -72,7 +69,7 @@ h2 {
 
 ## Weitere Beispiele: home.page.html
 
-{% highlight shell %}
+{% highlight html %}
 <ion-content padding>
   <h1>Überschrift 1</h1>
   <h2>Überschrift 2</h2>
@@ -85,7 +82,7 @@ h2 {
 {% endhighlight %}
 
 
-{% highlight shell %}
+{% highlight css %}
 ion-title {
     color: #ffffff;
     background-color: #00ff00;
@@ -96,7 +93,7 @@ h1 {
 }
 
 h1 {
-    color: red
+    color: red;
 }
 
 h3 {
