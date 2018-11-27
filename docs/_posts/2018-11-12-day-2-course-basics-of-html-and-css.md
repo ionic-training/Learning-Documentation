@@ -20,6 +20,7 @@ introduction:
 ## Titel ändern
 
 {% highlight shell %}
+<<<<<<< HEAD
 	<ion-title>CSS 01</ion-title>
 	<ion-buttons slot="start">
 		<ion-menu-button></ion-menu-button>
@@ -40,6 +41,28 @@ ion-title {
 ion-title {
 	color: #ffffff;
 	background-color: #ff0000;
+=======
+<ion-title>CSS 01</ion-title>
+<ion-buttons slot="start">
+	<ion-menu-button></ion-menu-button>
+</ion-buttons>
+{% endhighlight %}
+
+## Change title color: add in file css01.page.scss
+
+{% highlight shell %}
+ion-title {
+    --color: #3880ff;
+}
+{% endhighlight %}
+
+ ## Add background color
+ 
+{% highlight shell %}
+ion-title {
+    color: #ffffff;
+    background-color: #ff0000;
+>>>>>>> b25b08b30ea8d888b560ae0c90bad092c89db021
 }
 {% endhighlight %}
 
@@ -69,8 +92,8 @@ h2 {
 	font-style: italic;
 }
 {% endhighlight %}
-
 <<<<<<< HEAD
+
 ## Weitere Beispiele: home.page.html
 
 {% highlight shell %}
@@ -105,3 +128,5 @@ h3 {
     font-family: 'Courier New', Courier, monospace;
 }
 {% endhighlight %}
+=======
+>>>>>>> b25b08b30ea8d888b560ae0c90bad092c89db021
