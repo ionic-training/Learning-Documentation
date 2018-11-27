@@ -15,27 +15,35 @@ twitter_text:
 introduction:
 ---
 
-# Customize page
+# Seite individuell anpassen
 
-## Change title
+## Titel ändern
 
+{% highlight shell %}
 	<ion-title>CSS 01</ion-title>
 	<ion-buttons slot="start">
 		<ion-menu-button></ion-menu-button>
 	</ion-buttons>
+{% endhighlight %}
 
-## Change title color: add in file css01.page.scss
-    ion-title {
-        --color: #3880ff;
-    }
+## Farbe des Titels: home.page.scss
 
- ## Add background color
-    ion-title {
-        --color: #ffffff;
-        background-color: #ff0000;
-    }
+{% highlight shell %}
+ion-title {
+	color: #3880ff;
+}
+{% endhighlight %}
 
-## Add additional text with formatting and style
+## Farbe des Hintergrund
+
+{% highlight shell %}
+ion-title {
+	color: #ffffff;
+	background-color: #ff0000;
+}
+{% endhighlight %}
+
+##Weiterer Text und Formatierung
 
 ### home.page.html
 
@@ -59,5 +67,40 @@ h2 {
 	color: #000000;
 	background-color: #ff0000;
 	font-style: italic;
+}
+{% endhighlight %}
+
+## Weitere Beispiele: home.page.html
+
+{% highlight shell %}
+<ion-content padding>
+  <h1>Überschrift 1</h1>
+  <h2>Überschrift 2</h2>
+  <h1>Überschrift 3</h1>
+  <h4>Überschrift 4</h4>
+
+  Normaler Text
+  Die Welt ist <b>rund</b> und gross.
+</ion-content>
+{% endhighlight %}
+
+
+{% highlight shell %}
+ion-title {
+    color: #ffffff;
+    background-color: #00ff00;
+}
+
+h1 {
+    color: greenyellow;
+}
+
+h1 {
+    color: red
+}
+
+h3 {
+    background-color: aqua;
+    font-family: 'Courier New', Courier, monospace;
 }
 {% endhighlight %}
