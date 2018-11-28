@@ -23,14 +23,14 @@ ionic start sidemenu sidemenu --type angular --no-link
 {% endhighlight %}
 
 ## Titel ändern
-Wir ändern den Titel der Seite **home**. Die Änderung erfolgt in der Datei home.page.html:
+Wir ändern den Titel der Seite **home**. Die Änderung erfolgt in der Datei `home.page.html`:
 
 {% highlight html %}
 <ion-title>Arbeiten mit CSS</ion-title>
 {% endhighlight %}
 
 ## Farbe des Titels
-Den geänderten Titel formatieren wir nun mit einer individuellen Farbe. Die Änderung erfolgt in der Datei home.page.css:
+Den geänderten Titel formatieren wir nun mit einer individuellen Farbe. Die Änderung erfolgt in der Datei `home.page.css`:
 
 {% highlight css %}
 ion-title {
