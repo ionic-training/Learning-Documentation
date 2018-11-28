@@ -273,5 +273,3 @@ p   { color: green; }
 div { margin: 10px; background-color: gray;	}
 {% endhighlight %}
 <div style="margins: 10px; background-color: gray">Und das ist der div</div>
-
-# Ende
