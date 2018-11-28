@@ -165,8 +165,8 @@ Hier wird die CSS-Definition direkt im HTML-Code eingefügt. Eine einfache Mögl
 ## CSS Selectors
 
 ### Element
-The first way to select an HTML element is by simply using the name, which is what we did above.
-
+Der erste Möglichkeit, ein HTML Element zu formatieren ist, den Namen des HTML-Elementes selbst zu verwenden.
+Die Formatierung gilt dann nur für das angegebene ELement, im nachfolgenden Beispiel also __h1__, __p__ und __div__:
 {% highlight css %}
 h1 {
     font-size: 20px;
@@ -180,7 +180,9 @@ div {
 {% endhighlight %}
 
 ###  Class
-Another way of selecting HTML elements is by using the class attribute. In HTML, we can assign different classes to our elements. Each element can have multiple classes, and each class can also be applied to multiple elements as well.
+Eine andere Möglichkeit ist die Verwenung einer CSS Klasse. Hier wird über einen Namen (dem Namen der Klasse) die Formatierung zusammengefasst. Der Name der Klasse wird dann im HTML-Element verwendet.
+
+Vorteil: Die Formatierung kann mehreren, auch unterschiedlichen HTML-Elementen zugewiesen werden:
 
 {% highlight html %}
 <div class='container'>
@@ -195,7 +197,9 @@ Another way of selecting HTML elements is by using the class attribute. In HTML,
 {% endhighlight %}
 
 ## ID
-Like classes, we can also use IDs to select HTML elements and apply styling to them. The only difference between class and ID is that one ID can be assigned to only one HTML element.
+Eine weitere Möglichkeit der Zuweisung von CSS-Formatierung ist die Verwendung einer ID. Diese erfolgt ebenfalls wie bei einer Klasse über den Namen der ID.
+
+Im Unterschiede zu einer Klasse darf eine ID nur einmal in einer HTML Seite verwendet werden:
 
 {% highlight html %}
 <div>
