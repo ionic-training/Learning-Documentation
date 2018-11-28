@@ -81,7 +81,6 @@ h2 {
 </ion-content>
 {% endhighlight %}
 
-
 {% highlight css %}
 ion-title {
     color: #ffffff;
@@ -156,7 +155,9 @@ Another way of selecting HTML elements is by using the class attribute. In HTML,
 <div class='container'>
     <h1> This is heading </h1>
 </div>
-...
+{% endhighlight %}
+
+{% highlight css %}
 .container {
     margin: 10px;
 }
@@ -169,203 +170,43 @@ Like classes, we can also use IDs to select HTML elements and apply styling to t
 <div>
     <p id='para1'> This is a paragraph </p>
 </div>
-...
+{% endhighlight %}
+
+{% highlight css %}
+
 #para1 {
     color: green;
     font-size: 16px;
 }
 {% endhighlight %}
 
+## Fonts & Colors
+CSS provides us with literally hundreds of options for playing around with fonts and colors and making our HTML elements look pretty. We can choose from two types of font family names:
 
-## 
+1. Generic Family: a group of font families with a similar look (like ‘Serif’ or ‘Monospace’)
+
+2. Font Family: a specific font family (like ‘Times New Roman’ or ‘Arial’)
+
+For colors, we can use predefined color names, or RGB, HEX, HSL, RGBA, HSLA values.
+
 {% highlight html %}
+<div class='container'>
+    <h1 class='heading1'>
+        CSS is Coooooool!!!!
+    </h1>
+</div>
 {% endhighlight %}
 
-
-## 
-{% highlight html %}
+{% highlight css %}
+.container {
+    width: 500px;
+    height: 100px;
+    background-color: lightcyan;
+    text-align: center;
+}
+.heading1 {
+    font-family: 'Courier New';
+    color: tomato;
+}
 {% endhighlight %}
-
-
-## 
-{% highlight html %}
-{% endhighlight %}
-
-
-## 
-{% highlight html %}
-{% endhighlight %}
-
-
-## 
-{% highlight html %}
-{% endhighlight %}
-
-
-## 
-{% highlight html %}
-{% endhighlight %}
-
-
-## 
-{% highlight html %}
-{% endhighlight %}
-
-
-## 
-{% highlight html %}
-{% endhighlight %}
-
-
-## 
-{% highlight html %}
-{% endhighlight %}
-
-
-## 
-{% highlight html %}
-{% endhighlight %}
-
-
-## 
-{% highlight html %}
-{% endhighlight %}
-
-
-## 
-{% highlight html %}
-{% endhighlight %}
-
-
-## 
-{% highlight html %}
-{% endhighlight %}
-
-
-## 
-{% highlight html %}
-{% endhighlight %}
-
-
-## 
-{% highlight html %}
-{% endhighlight %}
-
-
-## 
-{% highlight html %}
-{% endhighlight %}
-
-
-## 
-{% highlight html %}
-{% endhighlight %}
-
-
-## 
-{% highlight html %}
-{% endhighlight %}
-
-
-## 
-{% highlight html %}
-{% endhighlight %}
-
-
-## 
-{% highlight html %}
-{% endhighlight %}
-
-
-## 
-{% highlight html %}
-{% endhighlight %}
-
-
-## 
-{% highlight html %}
-{% endhighlight %}
-
-
-## 
-{% highlight html %}
-{% endhighlight %}
-
-
-## 
-{% highlight html %}
-{% endhighlight %}
-
-
-## 
-{% highlight html %}
-{% endhighlight %}
-
-
-## 
-{% highlight html %}
-{% endhighlight %}
-
-
-## 
-{% highlight html %}
-{% endhighlight %}
-
-
-## 
-{% highlight html %}
-{% endhighlight %}
-
-
-## 
-{% highlight html %}
-{% endhighlight %}
-
-
-## 
-{% highlight html %}
-{% endhighlight %}
-
-
-## 
-{% highlight html %}
-{% endhighlight %}
-
-
-## 
-{% highlight html %}
-{% endhighlight %}
-
-
-## 
-{% highlight html %}
-{% endhighlight %}
-
-
-## 
-{% highlight html %}
-{% endhighlight %}
-
-
-## 
-{% highlight html %}
-{% endhighlight %}
-
-
-## 
-{% highlight html %}
-{% endhighlight %}
-
-
-## 
-{% highlight html %}
-{% endhighlight %}
-
-
-## 
-{% highlight html %}
-{% endhighlight %}
-
-
-
 
