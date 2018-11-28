@@ -15,7 +15,7 @@ twitter_text:
 introduction:
 ---
 
-# Seite individuell anpassen
+# Erste Schritte: Seite individuell anpassen
 
 ## Titel ändern
 
