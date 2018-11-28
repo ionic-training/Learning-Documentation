@@ -239,18 +239,11 @@ Im Unterschiede zu einer Klasse darf eine ID nur einmal in einer HTML Seite verw
 {% endhighlight %}
 
 ## Fonts & Colors
-CSS provides us with literally hundreds of options for playing around with fonts and colors and making our HTML elements look pretty. We can choose from two types of font family names:
-
-1. Generic Family: a group of font families with a similar look (like ‘Serif’ or ‘Monospace’)
-
-2. Font Family: a specific font family (like ‘Times New Roman’ or ‘Arial’)
-
-For colors, we can use predefined color names, or RGB, HEX, HSL, RGBA, HSLA values.
 
 {% highlight html %}
 <div class='container'>
     <h1 class='heading1'>
-        CSS is Coooooool!!!!
+        CSS ist toll!
     </h1>
 </div>
 {% endhighlight %}
@@ -271,9 +264,9 @@ For colors, we can use predefined color names, or RGB, HEX, HSL, RGBA, HSLA valu
 # Beispiel für Formatierungen
 
 {% highlight html %}
-h1  { font-size: 20px; }
+h1  { font-size: 50px; }
 {% endhighlight %}
-<h1  style="font-size: 20px">Hier steht das Element h1</h1>
+<h1  style="font-size: 50px">Hier steht das Element h1</h1>
 
 {% highlight html %}
 p   { color: green; }
