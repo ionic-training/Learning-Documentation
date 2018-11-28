@@ -280,13 +280,22 @@ For colors, we can use predefined color names, or RGB, HEX, HSL, RGBA, HSLA valu
 	<tbody>
 	<tr><td>
 {% highlight html %}
-	#
+h1 {
+    font-size: 20px;
+}
+p {
+    color: green;
+}
+div {
+    margin: 10px;
+    background-color: gray
+}
 {% endhighlight %}
 	</td>
 	<td>
-{% highlight html %}
-	#
-{% endhighlight %}
+		<h1  style="font-size: 20px">Hier steht das Element h1</h1>
+		<p   style="color: green">Hier ist das Element p</h1>
+		<div style="margins: 10px; background-color: gray">Und das ist der div</h1>
 	</td>
 	</tr>
 	</tbody>
