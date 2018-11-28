@@ -42,16 +42,12 @@ ion-title {
 
 ## Weiterer Text und Formatierung
 
-### home.page.html
-
 {% highlight html %}
 <ion-content padding>
 	<h1>Überschrift H1</h1>
 	<h2>Überschrift H2</h2>
 </ion-content>
 {% endhighlight %}
-
-### home.page.scss
 
 {% highlight css %}
 h1 {
@@ -104,8 +100,10 @@ h3 {
 # Grundlagen CSS
 
 ##  Einbinden von CSS
+Es gibt verschiednen Arten, CSS-Definitionen in eine Webseite oder eine ganzen Web-App einzubinden.
 
 ### Inline CSS
+Hier wird die CSS-Definition direkt im HTML-Code eingefügt. Eine einfache Möglichheit mit dem Nachteil, das sie nu an dieser Stelle und für das verwendete Element gültig ist.
 
 {% highlight html %}
 <h1 style="color: blue"> Hello world! </h1>
@@ -210,3 +208,23 @@ For colors, we can use predefined color names, or RGB, HEX, HSL, RGBA, HSLA valu
 }
 {% endhighlight %}
 
+# Beispiel für Formatierungen
+
+{% highlight html %}
+<table style="width: 600px">
+	<colgroup>
+		<col width="50%" />
+		<col width="50%" />
+	</colgroup>
+	<thead>
+		<tr class="header">
+			<th align="left">HTML/CSS</th>
+			<th align="left">Ergebnis</th>
+		</tr>
+	</thead>
+	<tbody>
+	<tr><td>#</td><td>#</td></tr>
+	</tbody>
+</table>
+
+{% endhighlight %}
