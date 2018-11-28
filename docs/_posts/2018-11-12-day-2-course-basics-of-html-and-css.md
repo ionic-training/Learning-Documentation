@@ -247,25 +247,6 @@ For colors, we can use predefined color names, or RGB, HEX, HSL, RGBA, HSLA valu
 
 # Beispiel für Formatierungen
 
-{% highlight html %}
-<table style="width: 600px">
-	<colgroup>
-		<col width="50%" />
-		<col width="50%" />
-	</colgroup>
-	<thead>
-		<tr class="header">
-			<th align="left">HTML/CSS</th>
-			<th align="left">Ergebnis</th>
-		</tr>
-	</thead>
-	<tbody>
-	<tr><td>#</td><td>#</td></tr>
-	</tbody>
-</table>
-
-{% endhighlight %}
-
 <table style="width: 600px">
 	<colgroup>
 		<col width="50%" />
