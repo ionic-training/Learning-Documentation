@@ -15,15 +15,22 @@ twitter_text:
 introduction:
 ---
 
-# Erste Schritte: Seite individuell anpassen
+# Erste Schritte
+Die nachfolgenden Beispiele setzen auf eine vorhandeen Ionic App auf. Als Beispiel wir einen App verwendet, die mit der Vorlage **sidemenu** erstellt wurde.
+
+{% highlight html %}
+	ionic start sidemenu sidemenu --type angular --no-link
+{% endhighlight %}
 
 ## Titel ändern
+Wir ändern den Titel der Seite **home**. Die Änderung erfolgt in der Datei home.page.html:
 
 {% highlight html %}
 <ion-title>Arbeiten mit CSS</ion-title>
 {% endhighlight %}
 
 ## Farbe des Titels: home.page.scss
+Den geänderten Titel formatieren wir nun miteiner individuellen Farbe. Die Änderung erfolgt in der Datei home.page.css:
 
 {% highlight css %}
 ion-title {
@@ -32,6 +39,7 @@ ion-title {
 {% endhighlight %}
 
 ## Farbe des Hintergrund
+Jetzt setzen wir den Hintergrund des Titels:
 
 {% highlight css %}
 ion-title {
@@ -41,6 +49,7 @@ ion-title {
 {% endhighlight %}
 
 ## Weiterer Text und Formatierung
+In nächsten Schritt fügen wir weiter Überschriften in die Seite ein:
 
 {% highlight html %}
 <ion-content padding>
@@ -49,6 +58,7 @@ ion-title {
 </ion-content>
 {% endhighlight %}
 
+Für diese Überschriften passen wir nun auch die Formatierung an:
 {% highlight css %}
 h1 {
 	color: #ff0000;
@@ -63,7 +73,8 @@ h2 {
 }
 {% endhighlight %}
 
-## Weitere Beispiele: home.page.html
+## Weitere Beispiele
+Und zum Abschluss weiter Textelemente und Formatierungen:
 
 {% highlight html %}
 <ion-content padding>
@@ -77,6 +88,7 @@ h2 {
 </ion-content>
 {% endhighlight %}
 
+Und hier die entsprechenden CSS-Formatierungen:
 {% highlight css %}
 ion-title {
     color: #ffffff;
@@ -95,6 +107,27 @@ h3 {
     background-color: aqua;
     font-family: 'Courier New', Courier, monospace;
 }
+{% endhighlight %}
+
+# Grundlagen HTML
+
+## Aufbau einer Seite
+
+{% highlight html %}
+
+{% endhighlight %}
+
+
+## HTML Elemente
+
+### Gliederungen und Textformatierungen
+
+{% highlight html %}
+{% endhighlight %}
+
+### Tabellen
+
+{% highlight html %}
 {% endhighlight %}
 
 # Grundlagen CSS
