@@ -6,7 +6,7 @@ date: 2018-11-12 23:01:44
 image: '/assets/img/'
 description: Heute lernen wir HTML und CSS anzuwenden. Am Ende gibts es auch noch ein paar Übungen und Fragen
 main-class: 'html'
-color:
+color: green
 tags:
 - html
 - css
