@@ -101,3 +101,271 @@ h3 {
     font-family: 'Courier New', Courier, monospace;
 }
 {% endhighlight %}
+
+# Grundlagen CSS
+
+##  Einbinden von CSS
+
+### Inline CSS
+
+{% highlight html %}
+<h1 style="color: blue"> Hello world! </h1>
+{% endhighlight %}
+
+### Internal CSS
+
+{% highlight html %}
+<head>
+    <style>
+        h1 {
+            color: blue;
+        }
+    </style>
+</head>
+{% endhighlight %}
+
+### External CSS
+
+{% highlight html %}
+<head>
+    <link rel="stylesheet" href="style.css">
+</head>
+{% endhighlight %}
+
+## CSS Selectors
+
+### Element
+The first way to select an HTML element is by simply using the name, which is what we did above.
+
+{% highlight css %}
+h1 {
+    font-size: 20px;
+}
+p {
+    color: green;
+}
+div {
+    margin: 10px;
+}
+{% endhighlight %}
+
+###  Class
+Another way of selecting HTML elements is by using the class attribute. In HTML, we can assign different classes to our elements. Each element can have multiple classes, and each class can also be applied to multiple elements as well.
+
+{% highlight html %}
+<div class='container'>
+    <h1> This is heading </h1>
+</div>
+...
+.container {
+    margin: 10px;
+}
+{% endhighlight %}
+
+## ID
+Like classes, we can also use IDs to select HTML elements and apply styling to them. The only difference between class and ID is that one ID can be assigned to only one HTML element.
+
+{% highlight html %}
+<div>
+    <p id='para1'> This is a paragraph </p>
+</div>
+...
+#para1 {
+    color: green;
+    font-size: 16px;
+}
+{% endhighlight %}
+
+
+## 
+{% highlight html %}
+{% endhighlight %}
+
+
+## 
+{% highlight html %}
+{% endhighlight %}
+
+
+## 
+{% highlight html %}
+{% endhighlight %}
+
+
+## 
+{% highlight html %}
+{% endhighlight %}
+
+
+## 
+{% highlight html %}
+{% endhighlight %}
+
+
+## 
+{% highlight html %}
+{% endhighlight %}
+
+
+## 
+{% highlight html %}
+{% endhighlight %}
+
+
+## 
+{% highlight html %}
+{% endhighlight %}
+
+
+## 
+{% highlight html %}
+{% endhighlight %}
+
+
+## 
+{% highlight html %}
+{% endhighlight %}
+
+
+## 
+{% highlight html %}
+{% endhighlight %}
+
+
+## 
+{% highlight html %}
+{% endhighlight %}
+
+
+## 
+{% highlight html %}
+{% endhighlight %}
+
+
+## 
+{% highlight html %}
+{% endhighlight %}
+
+
+## 
+{% highlight html %}
+{% endhighlight %}
+
+
+## 
+{% highlight html %}
+{% endhighlight %}
+
+
+## 
+{% highlight html %}
+{% endhighlight %}
+
+
+## 
+{% highlight html %}
+{% endhighlight %}
+
+
+## 
+{% highlight html %}
+{% endhighlight %}
+
+
+## 
+{% highlight html %}
+{% endhighlight %}
+
+
+## 
+{% highlight html %}
+{% endhighlight %}
+
+
+## 
+{% highlight html %}
+{% endhighlight %}
+
+
+## 
+{% highlight html %}
+{% endhighlight %}
+
+
+## 
+{% highlight html %}
+{% endhighlight %}
+
+
+## 
+{% highlight html %}
+{% endhighlight %}
+
+
+## 
+{% highlight html %}
+{% endhighlight %}
+
+
+## 
+{% highlight html %}
+{% endhighlight %}
+
+
+## 
+{% highlight html %}
+{% endhighlight %}
+
+
+## 
+{% highlight html %}
+{% endhighlight %}
+
+
+## 
+{% highlight html %}
+{% endhighlight %}
+
+
+## 
+{% highlight html %}
+{% endhighlight %}
+
+
+## 
+{% highlight html %}
+{% endhighlight %}
+
+
+## 
+{% highlight html %}
+{% endhighlight %}
+
+
+## 
+{% highlight html %}
+{% endhighlight %}
+
+
+## 
+{% highlight html %}
+{% endhighlight %}
+
+
+## 
+{% highlight html %}
+{% endhighlight %}
+
+
+## 
+{% highlight html %}
+{% endhighlight %}
+
+
+## 
+{% highlight html %}
+{% endhighlight %}
+
+
+
+
