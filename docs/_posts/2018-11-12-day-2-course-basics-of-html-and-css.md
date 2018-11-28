@@ -257,6 +257,13 @@ Im Unterschiede zu einer Klasse darf eine ID nur einmal in einer HTML Seite verw
 }
 {% endhighlight %}
 
+<div style="width: 500px; height: 100px; background-color: lightcyan; text-align: center">
+    <h1 clstyle="font-family: 'Courier New'; color: tomato;">
+        CSS ist toll!
+    </h1>
+</div>
+
+
 # Beispiel für Formatierungen
 
 {% highlight html %}
