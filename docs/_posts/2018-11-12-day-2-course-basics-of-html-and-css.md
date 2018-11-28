@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: "Day 2: Basics of HTML and CSS"
+title: "Tag 2: Grundlagen HTML und CSS"
 date: 2018-11-12 23:01:44
 image: '/assets/img/'
 description: Heute lernen wir HTML und CSS anzuwenden. Am Ende gibts es auch noch ein paar Übungen und Fragen

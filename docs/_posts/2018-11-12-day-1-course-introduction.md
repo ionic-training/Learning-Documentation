@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: "Day 1: Introduction"
+title: "Tag 1: Einführung"
 date: 2018-11-12 23:01:44
 image: '/assets/img/'
 description: Heute lernen wir etwas über die Anforderungen an die Ionic-Entwicklung. Inbesondere die notwendige Software. Am Ende gibts es auch noch ein paar Übungen und Fragen

@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: "Day 4: Workshop - Basics Ionic"
+title: "Tag 4: Workshop - Grundlagen Ionic"
 date: 2018-11-12 23:01:44
 image: '/assets/img/'
 description:

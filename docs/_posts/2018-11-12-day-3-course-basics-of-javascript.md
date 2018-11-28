@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: "Day 3: Basics of Javascript"
+title: "Tag 3: Grundlagen Javascript"
 date: 2018-11-12 23:01:44
 image: '/assets/img/'
 description:
