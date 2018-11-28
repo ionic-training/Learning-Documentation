@@ -128,6 +128,29 @@ h3 {
 ### Tabellen
 
 {% highlight html %}
+<table>
+	<tr>
+			<td>1.1</td>
+			<td>1.2</td>
+	<tr>
+	<tr>
+			<td>2.1</td>
+			<td>2.2</td>
+	<tr>
+</table>
+{% endhighlight %}
+<table>
+	<tr>
+			<td>1.1</td>
+			<td>1.2</td>
+	<tr>
+	<tr>
+			<td>2.1</td>
+			<td>2.2</td>
+	<tr>
+</table>
+
+{% highlight html %}
 {% endhighlight %}
 
 # Grundlagen CSS
