@@ -19,7 +19,7 @@ introduction:
 Die nachfolgenden Beispiele setzen auf eine vorhandeen Ionic App auf. Als Beispiel wir einen App verwendet, die mit der Vorlage **sidemenu** erstellt wurde.
 
 {% highlight html %}
-	ionic start sidemenu sidemenu --type angular --no-link
+ionic start sidemenu sidemenu --type angular --no-link
 {% endhighlight %}
 
 ## Titel ändern
@@ -29,8 +29,8 @@ Wir ändern den Titel der Seite **home**. Die Änderung erfolgt in der Datei hom
 <ion-title>Arbeiten mit CSS</ion-title>
 {% endhighlight %}
 
-## Farbe des Titels: home.page.scss
-Den geänderten Titel formatieren wir nun miteiner individuellen Farbe. Die Änderung erfolgt in der Datei home.page.css:
+## Farbe des Titels
+Den geänderten Titel formatieren wir nun mit einer individuellen Farbe. Die Änderung erfolgt in der Datei home.page.css:
 
 {% highlight css %}
 ion-title {
